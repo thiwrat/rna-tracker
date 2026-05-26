@@ -1,0 +1,39 @@
+name: Daily RNA Research Search
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  search-rna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 feedparser python-dateutil
+      
+      - name: Create reports directory
+        run: mkdir -p reports
+      
+      - name: Run RNA research search
+        run: python search_rna.py
+      
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "RNA Tracker Bot"
+          git add reports/
+          git commit -m "Daily RNA update - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push || echo "Push failed"

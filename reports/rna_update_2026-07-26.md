@@ -1,0 +1,1865 @@
+# RNA Development Updates - 2026-07-26
+
+**Generated:** 2026-07-26 10:45:08 UTC
+
+## Summary
+- Total publications found: 168
+- Sources: PubMed, arXiv, Semantic Scholar
+
+---
+
+- arXiv: 55 publications
+- PubMed: 113 publications
+
+---
+
+## mRNA Therapeutics (31 publications)
+
+### 1. mRNAutilus: Multi-Objective-Guided Discrete Generation of mRNA with Optimized Therapeutic Properties
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Sawan Patel, Sophia Tang, Yesol Kim
+
+**Abstract:** Therapeutic mRNA design requires coordinating multiple interacting sequence features across the full transcript, where codon usage, untranslated regions (UTRs), and their coupling jointly determine stability, translation efficiency, and protein expression. Here, we present mRNA generation via unrolled trajectories and informed latent updates (mRNAutilus), a framework for simultaneous codon optimiz...
+
+**Link:** [http://arxiv.org/abs/2605.31296v1](http://arxiv.org/abs/2605.31296v1)
+
+---
+
+### 2. Sampling-based Continuous Optimization for Messenger RNA Design
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Feipeng Yue, Ning Dai, Wei Yu Tang
+
+**Abstract:** Designing messenger RNA (mRNA) sequences for a fixed target protein requires searching an exponentially large synonymous space while optimizing properties that affect stability and downstream performance. This is challenging because practical mRNA design involves multiple coupled objectives beyond classical folding criteria, and different applications prefer different trade-offs. We propose a gene...
+
+**Link:** [http://arxiv.org/abs/2603.06559v1](http://arxiv.org/abs/2603.06559v1)
+
+---
+
+### 3. RNAGenScape: Property-Guided, Optimized Generation of mRNA Sequences with Manifold Langevin Dynamics
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Danqi Liao, Chen Liu, Xingzhi Sun
+
+**Abstract:** Generating property-optimized mRNA sequences is central to applications such as vaccine design and protein replacement therapy, but remains challenging due to limited data, complex sequence-function relationships, and the narrow space of biologically viable sequences. Generative methods that drift away from the data manifold can yield sequences that fail to fold, translate poorly, or are otherwise...
+
+**Link:** [http://arxiv.org/abs/2510.24736v3](http://arxiv.org/abs/2510.24736v3)
+
+---
+
+### 4. The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Xin Gao, Michael Lanz, Rosslyn Grosely
+
+**Abstract:** Cell growth underlies nearly all eukaryotic physiology, yet its quantitative principles remain unclear. Using single-molecule ribosome tracking, spike-in RNA sequencing, and quantitative proteomics across 15 nutrient-limited conditions in budding yeast, we define how growth is controlled in the budding yeast Saccharomyces cerevisiae. Ribosome concentration scales linearly with growth rate, while p...
+
+**Link:** [http://arxiv.org/abs/2508.14997v2](http://arxiv.org/abs/2508.14997v2)
+
+---
+
+### 5. mRNA Folding Algorithms for Structure and Codon Optimization
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Max Ward, Mary Richardson, Mihir Metkar
+
+**Abstract:** mRNA technology has revolutionized vaccine development, protein replacement therapies, and cancer immunotherapies, offering rapid production and precise control over sequence and efficacy. However, the inherent instability of mRNA poses significant challenges for drug storage and distribution, particularly in resource-limited regions. Co-optimizing RNA structure and codon choice has emerged as a p...
+
+**Link:** [http://arxiv.org/abs/2503.19273v1](http://arxiv.org/abs/2503.19273v1)
+
+---
+
+### 6. Generative Model for Synthesizing Ionizable Lipids: A Monte Carlo Tree Search Approach
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Jingyi Zhao, Yuxuan Ou, Austin Tripp
+
+**Abstract:** Ionizable lipids are essential in developing lipid nanoparticles (LNPs) for effective messenger RNA (mRNA) delivery. While traditional methods for designing new ionizable lipids are typically time-consuming, deep generative models have emerged as a powerful solution, significantly accelerating the molecular discovery process. However, a practical challenge arises as the molecular structures genera...
+
+**Link:** [http://arxiv.org/abs/2412.00807v1](http://arxiv.org/abs/2412.00807v1)
+
+---
+
+### 7. Machine learning framework to predict the performance of lipid nanoparticles for nucleic acid delivery
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Gaurav Kumar, Arezoo M. Ardekani
+
+**Abstract:** Lipid nanoparticles (LNPs) are highly effective carriers for gene therapies, including mRNA and siRNA delivery, due to their ability to transport nucleic acids across biological membranes, low cytotoxicity, improved pharmacokinetics, and scalability. A typical approach to formulate LNPs is to establish a quantitative structure-activity relationship (QSAR) between their compositions and in vitro/in...
+
+**Link:** [http://arxiv.org/abs/2411.14293v1](http://arxiv.org/abs/2411.14293v1)
+
+---
+
+### 8. Joint Design of 5' Untranslated Region and Coding Sequence of mRNA
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Yang Liu, Jie Gao, Xiaonan Zhang
+
+**Abstract:** Messenger RNA (mRNA) vaccines and therapeutics are emerging as powerful tools against a variety of diseases, including infectious diseases and cancer. The design of mRNA molecules, particularly the untranslated region (UTR) and coding sequence (CDS) is crucial for optimizing translation efficiency and stability. Current design approaches generally focus solely on either the 5' UTR or the CDS, whic...
+
+**Link:** [http://arxiv.org/abs/2410.20781v1](http://arxiv.org/abs/2410.20781v1)
+
+---
+
+### 9. Bacterial stress granule protects mRNA through ribonucleases exclusion
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Linsen Pei, Yujia Xian, Xiaodan Yan
+
+**Abstract:** Membraneless droplets formed through liquid-liquid phase separation (LLPS) play a crucial role in mRNA storage, enabling organisms to swiftly respond to environmental changes. However, the mechanisms underlying mRNA integration and protection within droplets remain unclear. Here, we unravel the role of bacterial aggresomes as stress granules (SGs) in safeguarding mRNA during stress. We discovered ...
+
+**Link:** [http://arxiv.org/abs/2404.17873v2](http://arxiv.org/abs/2404.17873v2)
+
+---
+
+### 10. Hypolipidemic effect of brown seaweed (Sargassum crassifolium) extract in vivo (Study of histopathology, mRNA expression, and immunohistochemistry (IHC) with VCAM-1, ICAM-1, and MCP-1 parameters)
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Sarah Zaidan, Syamsudin Abdillah, Nur Arfian
+
+**Abstract:** The purpose of this study was to obtain natural drugs from brown seaweed (Sargassum crassifolium) as antiatherosclerosis candidates through the study of hypolipidemic mechanisms of action. Modeling of dyslipidemia rats was carried out by feeding high-fat (HFF) and doses of crude fucoidan 100. 200. 400mg / KgBB. in both treatments measured blood lipid profile levels taken from the orbital sinuses. ...
+
+**Link:** [http://arxiv.org/abs/2402.07497v1](http://arxiv.org/abs/2402.07497v1)
+
+---
+
+### 11. Messenger RNA Design via Expected Partition Function and Continuous Optimization
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Ning Dai, Wei Yu Tang, Tianshuo Zhou
+
+**Abstract:** The tasks of designing RNAs are discrete optimization problems, and several versions of these problems are NP-hard. As an alternative to commonly used local search methods, we formulate these problems as continuous optimization and develop a general framework for this optimization based on a generalization of classical partition function which we call "expected partition function". The basic idea ...
+
+**Link:** [http://arxiv.org/abs/2401.00037v2](http://arxiv.org/abs/2401.00037v2)
+
+---
+
+### 12. Machine Learning-guided Lipid Nanoparticle Design for mRNA Delivery
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Daisy Yi Ding, Yuhui Zhang, Yuan Jia
+
+**Abstract:** While RNA technologies hold immense therapeutic potential in a range of applications from vaccination to gene editing, the broad implementation of these technologies is hindered by the challenge of delivering these agents effectively. Lipid nanoparticles have emerged as one of the most widely used delivery agents, but their design optimization relies on laborious and costly experimental methods. W...
+
+**Link:** [http://arxiv.org/abs/2308.01402v2](http://arxiv.org/abs/2308.01402v2)
+
+---
+
+### 13. Stochastic dynamics and ribosome-RNAP interactions in Transcription-Translation Coupling
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Xiangting Li, Tom Chou
+
+**Abstract:** Under certain cellular conditions, transcription and mRNA translation in prokaryotes appear to be "coupled," in which the formation of mRNA transcript and production of its associated protein are temporally correlated. Such transcription-translation coupling (TTC) has been evoked as a mechanism that speeds up the overall process, provides protection during the transcription, and/or regulates the t...
+
+**Link:** [http://arxiv.org/abs/2207.04568v1](http://arxiv.org/abs/2207.04568v1)
+
+---
+
+### 14. Coronavirus RNA Sensor Using Single-Stranded DNA Bonded to Sub-Percolated Gold Films on Monolayer Graphene Field-Effect Transistors
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Nicholas E. Fuhr, Mohamed Azize, David J. Bishop
+
+**Abstract:** Electrical detection of messenger ribonucleic acid (mRNA) is a promising approach to enhancing transcriptomics and disease diagnostics because of its sensitivity, rapidity, and modularity. Reported here is a fast SARS-CoV-2 mRNA biosensor (<1 minute) with a limit of detection of 1 aM, and dynamic range of 4 orders of magnitude and a linear sensitivity of 22 mV per molar decade. These figures of me...
+
+**Link:** [http://arxiv.org/abs/2205.05143v1](http://arxiv.org/abs/2205.05143v1)
+
+---
+
+### 15. Deep learning models for predicting RNA degradation via dual crowdsourcing
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Hannah K. Wayment-Steele, Wipapat Kladwang, Andrew M. Watkins
+
+**Abstract:** Messenger RNA-based medicines hold immense potential, as evidenced by their rapid deployment as COVID-19 vaccines. However, worldwide distribution of mRNA molecules has been limited by their thermostability, which is fundamentally limited by the intrinsic instability of RNA molecules to a chemical degradation reaction called in-line hydrolysis. Predicting the degradation of an RNA molecule is a ke...
+
+**Link:** [http://arxiv.org/abs/2110.07531v2](http://arxiv.org/abs/2110.07531v2)
+
+---
+
+### 16. Coagulapathies after vaccination against SARS-CoV-2 may be derived from a combination effect of SARS-CoV-2 spike protein and adenovirus vector-triggered signaling pathways
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Ralf Kircheis
+
+**Abstract:** The novel coronavirus SARS-CoV-2 has resulted in a global pandemic with worldwide 6-digital infection rates and thousands death tolls daily. Enormeous effords are undertaken to achieve high coverage of immunization in order to reach herd immunity to stop spreading of SARS-CoV-2 infection. Several SARS-CoV-2 vaccines, based either on mRNA, viral vectors, or inactivated SARS-CoV-2 virus have been ap...
+
+**Link:** [http://arxiv.org/abs/2109.00089v1](http://arxiv.org/abs/2109.00089v1)
+
+---
+
+### 17. BPPart and BPMax: RNA-RNA Interaction Partition Function and Structure Prediction for the Base Pair Counting Model
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Ali Ebrahimpour-Boroojeny, Sanjay Rajopadhye, Hamidreza Chitsaz
+
+**Abstract:** RNA-RNA interaction (RRI) is ubiquitous and has complex roles in the cellular functions. In human health studies, miRNA-target and lncRNAs are among an elite class of RRIs that have been extensively studied. Bacterial ncRNA-target and RNA interference are other classes of RRIs that have received significant attention. In recent studies, mRNA-mRNA interaction instances have been observed, where bot...
+
+**Link:** [http://arxiv.org/abs/1904.01235v2](http://arxiv.org/abs/1904.01235v2)
+
+---
+
+### 18. Endocytosis-independent cytosolic entry of messenger RNA via fluorous bilayer zippering attenuating Toll-like receptor signaling and enables ischemic tissue salvage.
+**Source:** PubMed | **Journal/Venue:** Smart molecules : open access
+
+**Authors:** Wang Yue, Xie Haitao, Xiang Guoqing
+
+**Abstract:** A fundamental constraint of conventional messenger RNA (mRNA) delivery systems is their obligatory trafficking through endosomal-lysosomal compartments, wherein cargo degradation and activation of endosomal Toll-like receptors precipitate substantial translational attrition and deleterious inflammatory cascades. We herein report a chemically engineered platform that circumvents these limitations a...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500712/](https://pubmed.ncbi.nlm.nih.gov/42500712/)
+
+---
+
+### 19. Enhancing pulp regeneration through metabolic reprogramming of mature dental pulp stem cells mediated by GLUT1/HK2 mRNA delivery.
+**Source:** PubMed | **Journal/Venue:** International journal of oral science
+
+**Authors:** Di Tiankai, Liu Yuhan, Li Zhili
+
+**Abstract:** The age-related decline in the pro-angiogenic capacity of mature dental pulp stem cells (DPSCs) severely limits pulp regeneration. We identify impaired glycolytic metabolism, driven by reduced glucose transporter type 1 (GLUT1) and hexokinase 2 (HK2) expression, as the key mechanism, as its inhibition diminished endothelial tube formation. To reverse this, we developed an aminolyzed highly branche...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493486/](https://pubmed.ncbi.nlm.nih.gov/42493486/)
+
+---
+
+### 20. Interim analysis of effectiveness of JN.1-adapted conventional and self-amplifying mRNA COVID-19 vaccines against symptomatic SARS-CoV-2 infection in adults aged ≥60 years, Japan, October 2024-April 2025.
+**Source:** PubMed | **Journal/Venue:** Vaccine
+
+**Authors:** Maeda Haruka, Igarashi Ataru, Mitsui Shinya
+
+**Abstract:** In Japan, JN.1-adapted conventional mRNA and self-amplifying mRNA (sa-mRNA) COVID-19 vaccines were introduced during the 2024-2025 season. We estimated the effectiveness of these vaccines against symptomatic SARS-CoV-2 infection among adults aged ≥60 years using a test-negative design (October 1, 2024-April 30, 2025). Eligible episodes were ≥1 COVID-19-like symptom and SARS-CoV-2 testing. Vaccine ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501715/](https://pubmed.ncbi.nlm.nih.gov/42501715/)
+
+---
+
+### 21. Computational Design of a Broad-Spectrum Multi-Epitope mRNA Vaccine Candidate for Mammarenaviruses.
+**Source:** PubMed | **Journal/Venue:** Applied biochemistry and biotechnology
+
+**Authors:** Zhang Ding, Li Ruxia, Fang Xue
+
+**Abstract:** Mammarenaviruses cause serious diseases such as Lassa fever and Argentine hemorrhagic fever that threaten global public health; however, vaccines and therapeutic options remain limited. Therefore, developing a broadly effective vaccine against mammarenaviruses is a priority. In this study, we systematically analyzed the main structural protein sequences of ten mammarenaviruses. We combined antigen...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501279/](https://pubmed.ncbi.nlm.nih.gov/42501279/)
+
+---
+
+### 22. Innate immune responses underlying local and systemic adverse reactions to mRNA-lipid nanoparticle vaccines.
+**Source:** PubMed | **Journal/Venue:** International immunology
+
+**Authors:** Takano Tomohiro, Matsumura Takayuki, Takahashi Yoshimasa
+
+**Abstract:** Vaccine reactogenicity refers to the capacity of a vaccine to induce transient local and systemic adverse reactions (ARs). Although these ARs are often attributed to vaccine-induced innate inflammation, accumulating evidence indicates that the inflammatory pathways causing symptoms are not necessarily identical to those required for protective immunity. mRNA-lipid nanoparticle (LNP) vaccines provi...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500975/](https://pubmed.ncbi.nlm.nih.gov/42500975/)
+
+---
+
+### 23. A Simple Method to Evaluate the Length of Poly(A) Tails in mRNA.
+**Source:** PubMed | **Journal/Venue:** Methods and protocols
+
+**Authors:** Mumenthaler Jonas, Feldmann Maximilian, Mamaghani Shahab
+
+**Abstract:** Synthetic mRNA produced by in vitro transcription is the active pharmaceutical ingredient of approved vaccines and of many drugs under development. It typically contains a 3' poly(A) tail required for optimal stabilization and translation of the mRNA. The average length of the poly(A) tail in the produced mRNA cannot be precisely predicted and consequently must be measured using complicated techno...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496561/](https://pubmed.ncbi.nlm.nih.gov/42496561/)
+
+---
+
+### 24. Hydrophobic Tail and Linker Diversification of PEG-Lipids Unlocks Precise Muscle Tropism of mRNA-Lipid Nanoparticles.
+**Source:** PubMed | **Journal/Venue:** Small (Weinheim an der Bergstrasse, Germany)
+
+**Authors:** Ou Bingqian, Tang Xuying, Qian Sunxiang
+
+**Abstract:** Intramuscular mRNA lipid nanoparticles (LNPs) often exhibit undesirable liver accumulation, compromising safety and efficacy. While optimization efforts focus on ionizable and helper lipids, the role of trace PEG-lipids remains underexplored. To address this, we constructed a 45-member PEG-lipid library via Ugi/Passerini reactions, keeping the PEG chain constant at 2 kDa while systematically diver...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42489054/](https://pubmed.ncbi.nlm.nih.gov/42489054/)
+
+---
+
+### 25. Safety of mRNA COVID-19 Vaccination during Pregnancy: Findings from Post-vaccination Follow-up Data from the Canadian National Vaccine Safety Network.
+**Source:** PubMed | **Journal/Venue:** Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC
+
+**Authors:** Soe Phyumar, Muller Matthew P, Isenor Jennifer E
+
+**Abstract:** This communication reports post-vaccination follow-up findings from the Canadian National Vaccine Safety network on COVID-19 vaccination during pregnancy. Among 6606 pregnant individuals who received an mRNA COVID-19 primary series, 4302 provided pregnancy status in follow-up surveys. Within seven months of vaccination, live birth was the most reported outcome, followed by ongoing pregnancy. Our d...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42486365/](https://pubmed.ncbi.nlm.nih.gov/42486365/)
+
+---
+
+### 26. mRNA vaccines for multidrug-resistant bacteria: promise, challenges, and microbiome-informed strategies.
+**Source:** PubMed | **Journal/Venue:** The Lancet. Microbe
+
+**Authors:** Davido Benjamin, Loubet Paul, Saleh-Mghir Azzam
+
+**Abstract:** Antimicrobial resistance (AMR) has made multidrug-resistant organisms (MDROs), particularly ESKAPE-E pathogens (including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterobacter spp, and Escherichia coli), a major threat to modern medicine. Although novel antibiotics, antimicrobial stewardship, and infection prevention remai...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42486137/](https://pubmed.ncbi.nlm.nih.gov/42486137/)
+
+---
+
+### 27. Real-world effectiveness and safety of protein-based and mRNA COVID-19 vaccines (BEEHIVE trial).
+**Source:** PubMed | **Journal/Venue:** Vaccine
+
+**Authors:** Yoon Sarang K, Phillips Andrew L, Battan-Wraith Steph
+
+**Abstract:** Real-world vaccine effectiveness (VE) and relative VE (rVE) data of protein-based and mRNA COVID-19 vaccines against symptomatic SARS-CoV-2 infections inform policy recommendations and reinforce public confidence. The study aim was to assess the safety and VE of the 2023-2024 protein-based and mRNA COVID-19 vaccines (XBB.1.5) in a real-world setting. The single-site, pragmatic BEEHIVE clinical tri...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42486052/](https://pubmed.ncbi.nlm.nih.gov/42486052/)
+
+---
+
+### 28. mRNA-LNP hepatitis C vaccine encoding p7 elicits improved humoral immunogenicity.
+**Source:** PubMed | **Journal/Venue:** Vaccine
+
+**Authors:** Reagan Erin K, Wright Desiree A, Clark Kaitlyn E
+
+**Abstract:** Nucleoside-modified messenger RNA lipid nanoparticle (mRNA-LNP) vaccines have had a tremendous impact on vaccine development against infectious pathogens, particularly since the onset of the COVID-19 pandemic. The platform is an effective stimulator of humoral and cellular immune responses due to unique features of the mRNA and LNP components. We sought to optimize the performance of the mRNA-LNP ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42486050/](https://pubmed.ncbi.nlm.nih.gov/42486050/)
+
+---
+
+### 29. N6-methyladenosine reader YTHDF2 facilitates malignant progression of gallbladder cancer by suppressing NME1 expression.
+**Source:** PubMed | **Journal/Venue:** Cancer letters
+
+**Authors:** Zhu En-Liang, Ma Ming-Jian, Wu Xin-Gui
+
+**Abstract:** Gallbladder carcinoma (GBC) is a highly aggressive malignancy characterized by an extremely poor prognosis and limited therapeutic options. N6-methyladenosine (m6A), the most prevalent post-transcriptional modification in eukaryotic mRNA, plays a pivotal role in regulating tumor progression. Screening of an siRNA library targeting YTH-domain family reader proteins identified YTH domain-containing ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42498073/](https://pubmed.ncbi.nlm.nih.gov/42498073/)
+
+---
+
+### 30. Using a hydrogen-bond index to predict the gene-silencing efficiency of siRNA based on the local structure of mRNA
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Kathy Q. Luo, Donald C. Chang
+
+**Abstract:** The gene silencing effect of short interfering RNA (siRNA) is known to vary strongly with the targeted position of the mRNA. A number of hypotheses have been suggested to explain this phenomenon. We would like to test if this positional effect is mainly due to the secondary structure of the mRNA at the target site. We proposed that this structural factor can be characterized by a single parameter ...
+
+**Link:** [http://arxiv.org/abs/1710.07413v1](http://arxiv.org/abs/1710.07413v1)
+
+---
+
+### 31. In silico evidence of the relationship between miRNAs and siRNAs
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Ludovica Montanucci, Piero Fariselli, Pier Luigi Martelli
+
+**Abstract:** Both short interfering RNAs (siRNAs) and microRNAs (miRNAs) mediate the repression of specific sequences of mRNA through the RNA interference pathway. In the last years several experiments have supported the hypothesis that siRNAs and miRNAs may be functionally interchangeable, at least in cultured cells. In this work we verify that this hypothesis is also supported by a computational evidence. We...
+
+**Link:** [http://arxiv.org/abs/0705.2355v1](http://arxiv.org/abs/0705.2355v1)
+
+---
+
+## RNAi & Gene Silencing (17 publications)
+
+### 1. Machine Learning Modeling Of SiRNA Structure-Potency Relationship With Applications Against Sars-Cov-2 Spike Gene
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Damilola Oshunyinka
+
+**Abstract:** The pharmaceutical Research and development (R&D) process is lengthy and costly, taking nearly a decade to bring a new drug to the market. However, advancements in biotechnology, computational methods, and machine learning algorithms have the potential to revolutionize drug discovery, speeding up the process and improving patient outcomes. The COVID-19 pandemic has further accelerated and deepened...
+
+**Link:** [http://arxiv.org/abs/2401.12232v1](http://arxiv.org/abs/2401.12232v1)
+
+---
+
+### 2. Acute low-salinity stress induces gill injury, oxidative stress, and apoptosis via the JNK-JUN/MAPK axis in the swimming crab (Portunus trituberculatus).
+**Source:** PubMed | **Journal/Venue:** Ecotoxicology and environmental safety
+
+**Authors:** Lu Xiang, An Xin-Yao, Liu Xin
+
+**Abstract:** Salinity fluctuation is a common environmental stressor threatening coastal crustaceans. Abrupt salinity drop can disrupt osmotic balance, trigger oxidative damage, and impair tissue homeostasis, yet the underlying molecular mechanism in Portunus trituberculatus remains insufficiently understood. In this study, we integrated histopathology, biochemical assays, transcriptomics, RNA interference (RN...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501681/](https://pubmed.ncbi.nlm.nih.gov/42501681/)
+
+---
+
+### 3. Editorial: Harnessing the power of small RNAs: advances and applications in plant gene silencing and stress response.
+**Source:** PubMed | **Journal/Venue:** Frontiers in plant science
+
+**Authors:** Prieto Humberto, Castro Álvaro
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500487/](https://pubmed.ncbi.nlm.nih.gov/42500487/)
+
+---
+
+### 4. Corrigendum to "Evolution of pyraclostrobin resistance in Botrytis cinerea from Xinxiang City of China and its targeted management via RNA interference" [Pesticide Biochemistry and Physiology 221 (2026) 107105].
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Zhou Feng, Su Haichuan, Jia Huifang
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493057/](https://pubmed.ncbi.nlm.nih.gov/42493057/)
+
+---
+
+### 5. The effects of dsRNases on RNA interference efficiency in insects and future research directions.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Liu Jisheng, Chen Yuying, Zhu Ziqi
+
+**Abstract:** RNA interference (RNAi), a gene silencing mechanism mediated by double-stranded RNA (dsRNA), is critical for insect gene function research and sustainable pest control. However, RNAi efficacy varies drastically across insect orders, with dsRNA stability, tightly linked to the action of double-stranded ribonucleases (dsRNases), as a key determinant. This review focuses on three representative insec...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493049/](https://pubmed.ncbi.nlm.nih.gov/42493049/)
+
+---
+
+### 6. Field assay of LDH-formulated dsRNA specific to vATPase against the pine wood nematode, Bursaphelenchus xylophilus, via trunk injection.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Song Taegeun, Khan Falguni, Kim Yonggyun
+
+**Abstract:** The pine wood nematode, Bursaphelenchus xylophilus, causes severe damage to pine trees. Current chemical control methods have raised environmental concerns and the resistance issue of the nematode. Due to its high specificity, RNA interference (RNAi) has emerged as a promising approach for controlling pests, including plant-parasitic nematodes, through the application of double-stranded RNA (dsRNA...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493015/](https://pubmed.ncbi.nlm.nih.gov/42493015/)
+
+---
+
+### 7. Distinct roles of COPI proteins attenuated in cell senescence.
+**Source:** PubMed | **Journal/Venue:** Science advances
+
+**Authors:** Mazan-Mamczarz Krystyna, Wind Eleanor J, Pal Apala
+
+**Abstract:** In senescent cells, functional alterations in organelles like mitochondria and lysosomes are well characterized, but senescence-associated changes in Golgi function are not. An RNA interference screen revealed that silencing subunits of the coatomer protein I (COPI) complex, critical for intracellular transport involving the Golgi, reduced extracellular vesicle uptake. In proliferating WI-38 fibro...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42490423/](https://pubmed.ncbi.nlm.nih.gov/42490423/)
+
+---
+
+### 8. Safety profile of small interfering RNA therapeutics: a systematic review and meta-analysis of randomized controlled trials.
+**Source:** PubMed | **Journal/Venue:** Frontiers in drug safety and regulation
+
+**Authors:** Ahn Cheewon, Jeong Hyunsuk, Yim Hyeon Woo
+
+**Abstract:** Small interfering RNAs (siRNAs) represent a promising therapeutic platform addressing unmet clinical needs. Recent advances have improved siRNA design, stability, specificity, and delivery; however, translating preclinical findings into clinical practice remains challenging due to the lack of standardized safety evaluation frameworks. This study conducted a systematic review and meta-analysis of p...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42499353/](https://pubmed.ncbi.nlm.nih.gov/42499353/)
+
+---
+
+### 9. Glycolytic enzyme PGK1 restricts viral replication via a glycolysis-independent mechanism.
+**Source:** PubMed | **Journal/Venue:** Science China. Life sciences
+
+**Authors:** Wei Yanli, Xu Shuai, Wang Qian
+
+**Abstract:** The development of effective and broad-spectrum antiviral therapies remains an urgent need. Identifying key host factors that participate in the viral life cycle may provide novel targets for the development of antiviral strategies. Herein, through tandem affinity purification-mass spectrometry and siRNA screening, we identified that a glycolytic enzyme, phosphoglycerate kinase 1 (PGK1), exerts a ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501189/](https://pubmed.ncbi.nlm.nih.gov/42501189/)
+
+---
+
+### 10. The protein kinase GCN2 senses the integrity of the multi-tRNA synthetase complex.
+**Source:** PubMed | **Journal/Venue:** Biochemical and biophysical research communications
+
+**Authors:** Cardoso da Silva Richard, Castilho Beatriz A
+
+**Abstract:** Aminoacyl-tRNA synthetases (ARSs) assemble with ARS-interacting multifunctional proteins (AIMPs) to form the multi-tRNA synthetase complex (MSC), a supramolecular complex proposed to enhance efficiency of tRNA aminoacylation. Here, we show that disassembly of MSC via siRNA-mediated depletion of the scaffold protein AIMP2 promotes a transient activation of the eIF2α kinase GCN2 in mouse embryonic f...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497830/](https://pubmed.ncbi.nlm.nih.gov/42497830/)
+
+---
+
+### 11. ZDHHC16-induced GPX2 S-palmitoylation promotes lenvatinib resistance and inhibits lenvatinib-induced immunogenic cell death in hepatocellular carcinoma.
+**Source:** PubMed | **Journal/Venue:** Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy
+
+**Authors:** He Long, Zhang Guangquan, Sun Yuxiu
+
+**Abstract:** S-palmitoylation is a common and reversible post-translational modification. This study aims to elucidate the functional role and mechanism of S-palmitoylation in lenvatinib resistance and lenvatinib-induced immunogenic cell death (ICD) in hepatocellular carcinoma (HCC). Using small interfering RNA (siRNA) screening in HCC cells, zinc finger DHHC-type palmitoyltransferase 16 (ZDHHC16) was identifi...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497564/](https://pubmed.ncbi.nlm.nih.gov/42497564/)
+
+---
+
+### 12. DeepSilencer: A Novel Deep Learning Model for Predicting siRNA Knockdown Efficiency
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Wangdan Liao, Weidong Wang
+
+**Abstract:** Background: Small interfering RNA (siRNA) is a promising therapeutic agent due to its ability to silence disease-related genes via RNA interference. While traditional machine learning and early deep learning methods have made progress in predicting siRNA efficacy, there remains significant room for improvement. Advanced deep learning techniques can enhance prediction accuracy, reducing the relianc...
+
+**Link:** [http://arxiv.org/abs/2503.04200v1](http://arxiv.org/abs/2503.04200v1)
+
+---
+
+### 13. Maturation of siRNA by strand separation: Steered Molecular dynamics study
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Rakesh K Mishra, Sanchita Mukherjee, Dhananjay Bhattacharyya
+
+**Abstract:** RNA interference, particularly siRNA induced gene silencing is becoming an important avenue of modern therapeutics. The siRNA is delivered to the cells as short double helical RNA which becomes single stranded for forming the RISC complex. Significant experimental evidence is available for most of the steps except the process of the separation of the two strands. We have attempted to understand th...
+
+**Link:** [http://arxiv.org/abs/1910.03778v1](http://arxiv.org/abs/1910.03778v1)
+
+---
+
+### 14. Unraveling siRNA Unzipping Kinetics with Graphene
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Santosh Mogurampelly, Swati Panigrahi, Dhananjay Bhattacharyya
+
+**Abstract:** Using all atom molecular dynamics simulations, we report spontaneous unzipping and strong binding of small interfering RNA (siRNA) on graphene. Our dispersion corrected density functional theory based calculations suggest that nucleosides of RNA have stronger attractive interactions with graphene as compared to DNA residues. These stronger interactions force the double stranded siRNA to spontaneou...
+
+**Link:** [http://arxiv.org/abs/1207.4569v1](http://arxiv.org/abs/1207.4569v1)
+
+---
+
+### 15. Unzipping and binding of small interfering RNA with single walled Carbon Nanotube: a platform for small interfering RNA delivery
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Mogurampelly Santosh, Swati Panigrahi, Dhananjay Bhattacharyya
+
+**Abstract:** In an effort to design efficient platform for siRNA delivery, we combine all atom classical and quantum simulations to study the binding of small interfering RNA (siRNA) by pristine single wall carbon nanotube (SWCNT). Our results show that siRNA strongly binds to SWCNT surface via unzipping its base-pairs and the propensity of unzipping increases with the increase in the diameter of the SWCNTs. T...
+
+**Link:** [http://arxiv.org/abs/1203.2409v1](http://arxiv.org/abs/1203.2409v1)
+
+---
+
+### 16. Nanodiamond as a vector for siRNA delivery to Ewing sarcoma cells
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Anna Alhaddad, Marie-Pierre Adam, Jacques Botsoa
+
+**Abstract:** We investigated the ability of diamond nanoparticles (nanodiamonds, NDs) to deliver small interfering RNA (siRNA) in Ewing sarcoma cells, in the perspective of in vivo anti-cancer nucleic acid drug delivery. siRNA was adsorbed onto NDs previously coated with cationic polymer. Cell uptake of NDs has been demonstrated by taking advantage of NDs intrinsic fluorescence coming from embedded color cente...
+
+**Link:** [http://arxiv.org/abs/1106.2252v2](http://arxiv.org/abs/1106.2252v2)
+
+---
+
+### 17. Target prediction and a statistical sampling algorithm for RNA-RNA interaction
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** F. W. D. Huang, J. Qin, C. M. Reidys
+
+**Abstract:** It has been proven that the accessibility of the target sites has a critical influence for miRNA and siRNA. In this paper, we present a program, rip2.0, not only the energetically most favorable targets site based on the hybrid-probability, but also a statistical sampling structure to illustrate the statistical characterization and representation of the Boltzmann ensemble of RNA-RNA interaction st...
+
+**Link:** [http://arxiv.org/abs/0908.0597v1](http://arxiv.org/abs/0908.0597v1)
+
+---
+
+## Long Non-Coding RNA (16 publications)
+
+### 1. SNHG15 Positively Regulates Influenza Virus Infection Through Its Association With miR-153 and RABL2A.
+**Source:** PubMed | **Journal/Venue:** Journal of medical virology
+
+**Authors:** Pushparaj Samuel, Vaddadi Kishore, Huang Chaoqun
+
+**Abstract:** Influenza viruses cause seasonal epidemics, and current vaccines do not fully protect against them. This study focuses on long non-coding RNAs (lncRNAs), which are RNA molecules that do not code for proteins but play crucial roles in various biological processes. We identified 17 lncRNAs altered by the influenza virus. Among these, SNHG15 was found to enhance influenza virus infection. Knockdown o...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42494191/](https://pubmed.ncbi.nlm.nih.gov/42494191/)
+
+---
+
+### 2. Trdn-as directs m6A-dependent transcriptional termination for accurate triadin isoform switching, preventing aberrant dyads and cardiomyopathy.
+**Source:** PubMed | **Journal/Venue:** Nature communications
+
+**Authors:** Hofmann Theresa, Hettrich Sara, Idrissou Bio Maria Ghéo
+
+**Abstract:** Heart failure is a leading cause of mortality, and impaired cardiac excitation-contraction coupling represents a potentially fatal trigger for myocardial dysfunction. Long non-coding RNAs (lncRNAs) can contribute to cardiomyopathy, but comprehensive mechanistic insights remain elusive. We demonstrate that reduction of the lncRNA TRDN-AS in human cardiomyopathy or abrogating it in human iPSC-derive...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502078/](https://pubmed.ncbi.nlm.nih.gov/42502078/)
+
+---
+
+### 3. Long non-coding RNAs and their potential role in predicting immunotherapy response and prognosis: a systematic review.
+**Source:** PubMed | **Journal/Venue:** Frontiers in immunology
+
+**Authors:** Alshamlani Lamia K, Alrowaydan Sara M, Almutairi Nora S
+
+**Abstract:** Immune checkpoint inhibitors (ICIs) have revolutionized cancer treatment; however, durable clinical benefit is limited to a subset of patients. Long non-coding RNAs (lncRNAs) have emerged as important regulators of tumor biology and immune responses and may serve as novel biomarkers to predict prognosis and response to ICIs. The systematic review was conducted according to PRISMA guidelines and re...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500647/](https://pubmed.ncbi.nlm.nih.gov/42500647/)
+
+---
+
+### 4. Long non-coding RNAs in the crosstalk between diabetes and colorectal cancer: molecular mechanisms and endocrine pathways.
+**Source:** PubMed | **Journal/Venue:** Frontiers in molecular biosciences
+
+**Authors:** Zhang Lu, Li Min
+
+**Abstract:** Colorectal cancer (CRC) and diabetes mellitus are major global health burdens that frequently coexist and share overlapping metabolic and molecular abnormalities. Accumulating epidemiological evidence indicates that diabetes is associated with an increased risk of CRC; however, the underlying mechanisms remain incompletely defined. Long non-coding RNAs (lncRNAs) have recently emerged as important ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500611/](https://pubmed.ncbi.nlm.nih.gov/42500611/)
+
+---
+
+### 5. Long Non-Coding RNAs: Allies and Enemies of HIV Infection.
+**Source:** PubMed | **Journal/Venue:** Acta naturae
+
+**Authors:** Kikhai T F, Mashkovskaia A V, Oretskaya T S
+
+**Abstract:**  significant impact on the pathogenesis of viral infections by acting as both positive and negative regulators of viral gene expression. This review summarizes the available data on lncRNAs associated with human immunodeficiency virus type 1 (HIV-1). LncRNAs can regulate both the active replication cycle and the latent phase of the HIV-1 infection, during which the integrated proviral DNA remains ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42499673/](https://pubmed.ncbi.nlm.nih.gov/42499673/)
+
+---
+
+### 6. Long noncoding RNA Gpr137b-ps mediates 15-PGDH-induced angiogenesis in brain microvasculature following tMCAO in mice.
+**Source:** PubMed | **Journal/Venue:** PloS one
+
+**Authors:** Wang Di, Zhang Guojian, Gou Haiyan
+
+**Abstract:** Angiogenesis is essential for recovery following ischemic stroke, as brain microvascular endothelial cells (BMVECs) drive vascular repair. 15-hydroxyprostaglandin dehydrogenase (15-PGDH) is a major regulator of endothelial function in some vascular contexts, but it is unknown whether 15-PGDH plays a significant role in angiogenesis following stroke. Notably, based on preliminary bioinformatics pre...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497132/](https://pubmed.ncbi.nlm.nih.gov/42497132/)
+
+---
+
+### 7. Small nucleolar RNA host genes in hepatocellular carcinoma: an evidence-weighted and etiology-aware framework for mechanistic and translational interpretation.
+**Source:** PubMed | **Journal/Venue:** Molecular biology reports
+
+**Authors:** El-Sehrawy Amr Ali Mohamed Abdelgawwad, Ahmed Yasmeen Kateb, Djumayeva Nasiba
+
+**Abstract:** Small nucleolar RNA host genes (SNHGs) are a distinctive subgroup of long non-coding RNAs whose loci can generate both host lncRNA transcripts and intronic small nucleolar RNAs. In hepatocellular carcinoma (HCC), dysregulated SNHGs have been linked to tumor growth, epithelial-mesenchymal transition, metastasis, stemness, immune remodeling, extracellular vesicle communication, and therapeutic resis...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496957/](https://pubmed.ncbi.nlm.nih.gov/42496957/)
+
+---
+
+### 8. Epigenetic Mechanisms of Breast and Ovarian Cancer Development: Interplay Between DNA Methylation/Demethylation Enzymes, MicroRNAs, and Long Non-Coding RNAs.
+**Source:** PubMed | **Journal/Venue:** Epigenomes
+
+**Authors:** Lukina Svetlana S, Pronina Irina V, Bril Alexander A
+
+**Abstract:** Structural and functional disruptions of the epigenome are hallmarks of breast and ovarian carcinogenesis. This review dissects the reciprocal regulatory networks co-operated by DNA methyltransferases (DNMTs), ten-eleven translocation enzymes (TETs), and key non-coding RNAs (microRNAs and lncRNAs). We map the precise molecular mechanisms through which these epigenetic modulators alter chromatin ac...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496533/](https://pubmed.ncbi.nlm.nih.gov/42496533/)
+
+---
+
+### 9. Integrated Transcriptomic, In Silico, and In Vitro Characterization of lncRNA ENST00000615487.1 Reveals Epithelial-Specific Expression, Differential Subcellular Distribution Between Normal and Colorectal Cancer Cells, and Potential Regulatory Functions.
+**Source:** PubMed | **Journal/Venue:** Non-coding RNA
+
+**Authors:** Đokić Nataša, Bubanja Anastasija, Karanović Jelena
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496243/](https://pubmed.ncbi.nlm.nih.gov/42496243/)
+
+---
+
+### 10. Frequent Functional Orthology of Characterized Long Noncoding RNAs and Genomic Loci Associated with Complex Traits and Disorders.
+**Source:** PubMed | **Journal/Venue:** Molecular and cellular biology
+
+**Authors:** Cummins Mitchell J, Mattick John S
+
+**Abstract:** Genome wide association studies (GWAS) have identified many haplotype blocks linked to a wide range of complex human traits, including intelligence, neuropsychiatric disorders, and immunological disorders, among many others. Approximately a quarter of these haplotype blocks lack protein-coding sequences but most express long noncoding RNAs (lncRNAs). Here we show that human loci orthologous with m...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496200/](https://pubmed.ncbi.nlm.nih.gov/42496200/)
+
+---
+
+### 11. LncRNA ckATP1A1-AS1 inhibits influenza A virus replication by mediating innate immune responses and suppressing viral nuclear import.
+**Source:** PubMed | **Journal/Venue:** Journal of virology
+
+**Authors:** Fan Menglu, Liu Zhiyuan, Deng Lulu
+
+**Abstract:** Influenza A viruses (IAVs) pose an ongoing threat to humans and other species because of their zoonotic potential. Accumulating evidence has demonstrated that certain long non-coding RNAs (lncRNAs) exhibit differential expression during viral infection and modulate diverse facets of viral pathogenesis. As key regulatory RNAs, lncRNAs participate in fundamental physiological processes and disease p...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496117/](https://pubmed.ncbi.nlm.nih.gov/42496117/)
+
+---
+
+### 12. Mechanistic study of antisense long non-coding RNA 
+**Source:** PubMed | **Journal/Venue:** Exploration of targeted anti-tumor therapy
+
+**Authors:** Sun Jinquan, Cui Jiayong, Qiu Tianlei
+
+**Abstract:** This study aims to investigate the expression and function of antisense long non-coding RNA (lncRNA)  Database prediction and collection of tissue samples were employed alongside a cell proliferation assay and Transwell migration and invasion assay to examine  Both database and 9 paired clinical tissue sample results demonstrate that  This study is the first to demonstrate the tumor-suppressive ro...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42495581/](https://pubmed.ncbi.nlm.nih.gov/42495581/)
+
+---
+
+### 13. Long noncoding RNA MNX1-AS1 mediated regulation of one-carbon metabolism by preventing CACYBP degradation to promote lung cancer progression.
+**Source:** PubMed | **Journal/Venue:** Cell death and differentiation
+
+**Authors:** Yang Juze, Qian Xinyi, Ren Jiayi
+
+**Abstract:** Lung cancer remains the leading cause of cancer-related death worldwide, and long noncoding RNAs (lncRNAs) have been implicated in its tumourigenesis and progression. However, the roles lncRNAs play in lung cancer remain unclear. In this study, we discovered an important role for the lncRNA MNX1 Antisense RNA 1 (MNX1-AS1) as a critical regulator of one-carbon metabolism reprogramming. Glutamine de...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493541/](https://pubmed.ncbi.nlm.nih.gov/42493541/)
+
+---
+
+### 14. Corrigendum to "Identification of pyroptosis-related lncRNAs for constructing a prognostic model and their correlation with immune infiltration in pancreatic cancer" [Hepatobiliary Pancreat Dis Int 24 (2025) 579-585].
+**Source:** PubMed | **Journal/Venue:** Hepatobiliary & pancreatic diseases international : HBPD INT
+
+**Authors:** Ye Zhou, Zhang Qi-Jun, Chen Wei
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493381/](https://pubmed.ncbi.nlm.nih.gov/42493381/)
+
+---
+
+### 15. Retraction notice to "LncRNA MEG3 aggravates acute pulmonary embolism-induced pulmonary arterial hypertension by regulating miR-34a-3p/DUSP1 axis" [Int. J. Biol. Macromol. 283 (2024) 137755].
+**Source:** PubMed | **Journal/Venue:** International journal of biological macromolecules
+
+**Authors:** Song Jianfeng, Shao Jinyan, Yu Shuili
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493264/](https://pubmed.ncbi.nlm.nih.gov/42493264/)
+
+---
+
+### 16. Blood-derived lncRNAs as potential biomarkers for early cancer diagnosis: The Good, the Bad and the Beauty
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Cedric Badowski, Bing He, Lana X Garmire
+
+**Abstract:** Cancer ranks as one of the deadliest diseases worldwide. The high mortality rate associated with cancer is partially due to the lack of reliable early detection methods and/or inaccurate diagnostic tools such as certain protein biomarkers. Cell-free nucleic acids (cfNA) such as circulating long non-coding RNAs (lncRNAs) have recently been proposed as a new class of potential biomarkers that could ...
+
+**Link:** [http://arxiv.org/abs/2109.11746v1](http://arxiv.org/abs/2109.11746v1)
+
+---
+
+## RNA Delivery (2 publications)
+
+### 1. MicroRNAs in periodontal disease: from pathogenic mechanisms and RANKL/OPG regulation to nanoparticle delivery and personalized medicine.
+**Source:** PubMed | **Journal/Venue:** Frontiers in immunology
+
+**Authors:** Yang Peiru, Li Zhulin, Li Sisi
+
+**Abstract:** Dysregulated host-microbe interactions are a hallmark of periodontal disease (PD), a chronic inflammatory condition that causes progressive alveolar bone resorption and tooth loss. MicroRNAs (miRNAs) have become important epigenetic regulators, offering new ways to understand disease pathophysiology and to provide tailored treatments. The current analysis uniquely synthesizes pathogen-specific miR...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500654/](https://pubmed.ncbi.nlm.nih.gov/42500654/)
+
+---
+
+### 2. Ginsenoside Rh1 ameliorates polystyrene nanoplastics-caused vascular injury by regulating HSP70 to suppress endoplasmic reticulum stress and pyroptosis.
+**Source:** PubMed | **Journal/Venue:** Journal of advanced research
+
+**Authors:** Song Yue-Qin, Ren Shen, Wang Yi-Yue
+
+**Abstract:** The vascular toxicity of polystyrene nanoparticles (PS-Nps) via the circulatory system has emerged as novel critical health risk factors. However, the specific mechanisms underlying PS-Nps-induced vascular endothelial injury and corresponding protective strategies remain poorly understood. This work seeks to assess the vascular toxicity of PS-Nps and the function and mechanism of rare ginsenoside ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501861/](https://pubmed.ncbi.nlm.nih.gov/42501861/)
+
+---
+
+## RNA Vaccines (4 publications)
+
+### 1. Multi-copy expression of classical swine fever virus E2 in a recombinant pseudorabies virus enhances immunogenicity and supports its potential as a PRV-CSFV bivalent vaccine candidate.
+**Source:** PubMed | **Journal/Venue:** Veterinary microbiology
+
+**Authors:** Shang Xianfei, Zhao Hui, He Yufeng
+
+**Abstract:** Classical swine fever virus (CSFV) and pseudorabies virus (PRV) remain significant threats to the swine industry. Although recombinant PRV vectors represent promising platforms for bivalent vaccine development, their application is frequently limited by insufficient expression of heterologous antigens, which may compromise protective efficacy. To address this limitation, we employed a multi-copy e...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501659/](https://pubmed.ncbi.nlm.nih.gov/42501659/)
+
+---
+
+### 2. Twenty-year persistence of WT1-specific cytotoxic T lymphocytes in peritumoral brain tissue by peptide vaccine therapy: Transcriptomic evidence for resident memory T-cell induction.
+**Source:** PubMed | **Journal/Venue:** Neuro-oncology advances
+
+**Authors:** Nakata Jun, Nakamura Natsuki, Motooka Daisuke
+
+**Abstract:** Sustained immune surveillance at tumor sites is considered essential for effective cancer immunotherapy; however, direct evidence of immune surveillance in humans is limited due to difficulty obtaining tumor and peritumoral tissues through invasive procedures. Peritumoral brain tissue was obtained during reoperation from a patient with  A high level of T-cell infiltration was observed in peritumor...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42494995/](https://pubmed.ncbi.nlm.nih.gov/42494995/)
+
+---
+
+### 3. Dendritic cells in cancer immunotherapy: functional barriers, reprogramming strategies and translational challenges.
+**Source:** PubMed | **Journal/Venue:** Frontiers in immunology
+
+**Authors:** Xiao Ningping, Chen Chao, Yang Xiuyu
+
+**Abstract:** Cancer immunotherapy depends on effective antigen presentation and T cell activation. Antigen-presenting cells (APCs), especially dendritic cells (DCs), play a central role in this process by capturing tumor antigens, processing them, and presenting antigenic peptides to T cells through major histocompatibility complex molecules. However, APC function is often impaired within the tumor microenviro...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42491063/](https://pubmed.ncbi.nlm.nih.gov/42491063/)
+
+---
+
+### 4. Dengue vaccines: The role of a correlate of protection in evaluating vaccine safety and risk.
+**Source:** PubMed | **Journal/Venue:** Vaccine
+
+**Authors:** Wong Joshua M, Acevedo Parker K, Whitehead Steve
+
+**Abstract:** Dengue remains a significant global health challenge, with incidence rising and over half the world's population at risk. Vaccines could play an important role in controlling dengue, but without a validated correlate of protection (CoP), vaccine development relies on large, costly, and complex phase 3 field efficacy trials that are often underpowered for evaluating efficacy and safety by individua...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42486049/](https://pubmed.ncbi.nlm.nih.gov/42486049/)
+
+---
+
+## Clinical & Regulatory (1 publications)
+
+### 1. Elevation of anticancer drug-induced cytotoxicity by velpatasvir through downregulation of claudin-14 expression in human colorectal cancer cells.
+**Source:** PubMed | **Journal/Venue:** European journal of pharmacology
+
+**Authors:** Ando Tomoka, Mizukami Yuko, Tosaki Shiemi
+
+**Abstract:** Claudin-14 (CLDN14) is a tight junction protein that contributes to the development of chemoresistant phenotypes in human colorectal cancer (CRC) cells. CLDN14 may represent a potential therapeutic target for CRC. In this study, we identified velpatasvir (VEL), a clinically approved hepatitis C virus nonstructural protein 5A (NS5A) inhibitor, as a potent suppressor of CLDN14 protein expression usi...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501891/](https://pubmed.ncbi.nlm.nih.gov/42501891/)
+
+---
+
+## General RNA Research (97 publications)
+
+### 1. Identification of the Novel HLA-C*12:02:62 Allele During Routine HLA Typing of a Prospective Cadaveric Recipient.
+**Source:** PubMed | **Journal/Venue:** HLA
+
+**Authors:** Chaudhary Akshay, Makwana Mayur, Parekh Khushagra
+
+**Abstract:** HLA-C*12:02:62 differs from HLA-C*12:02:02:01 by a single nucleotide change (C > T) at codon 16 in exon-2....
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502905/](https://pubmed.ncbi.nlm.nih.gov/42502905/)
+
+---
+
+### 2. Gomisin G Inhibits Pancreatic Cancer Cell Growth by Promoting YAP Degradation.
+**Source:** PubMed | **Journal/Venue:** Food science & nutrition
+
+**Authors:** Li Lan, Chen Jiayu, Shao Jiayi
+
+**Abstract:** Pancreatic cancer is highly lethal, with a five-year survival rate of less than 5%. Gomisin G, extracted from the fruit of ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502811/](https://pubmed.ncbi.nlm.nih.gov/42502811/)
+
+---
+
+### 3. miR-146a-Enriched Mesenchymal Stem Cell-Derived Extracellular Vesicles Prolong Corneal Allograft Survival by Modulating Local and Systemic Immune Responses.
+**Source:** PubMed | **Journal/Venue:** Iranian journal of pharmaceutical research : IJPR
+
+**Authors:** He Xuting
+
+**Abstract:** Corneal allograft rejection remains a leading cause of graft failure. Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) may provide new options for modulating the immune response to allografts. This study aimed to determine whether miR-146a-enriched EVs could prolong corneal allograft survival by modulating local and systemic immune responses. After corneal allografting from C57BL/6 t...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502768/](https://pubmed.ncbi.nlm.nih.gov/42502768/)
+
+---
+
+### 4. Persistent postnatal IGF2 expression alters adult skeletal architecture in 
+**Source:** PubMed | **Journal/Venue:** Bone reports
+
+**Authors:** Younis Shady, Shimonty Anika, Perez-Menendez Samantha
+
+**Abstract:** IGF2 is an imprinted growth factor essential for fetal development. A single nucleotide variation at a conserved ZBED6 binding site within  We studied 13-week-old male and female  Post-natal IGF2 expression alters the adult murine skeleton by augmenting longitudinal growth and cortical accrual and inducing female-specific trabecular gains, with selective decrements in material properties. These da...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502703/](https://pubmed.ncbi.nlm.nih.gov/42502703/)
+
+---
+
+### 5. Genome and transcriptome sequencing reveal pathogenic activation of a pseudoexon in 
+**Source:** PubMed | **Journal/Venue:** Genetics in medicine open
+
+**Authors:** Han Sangwoo T, Rehman Atteeq U, Srinivasa Sowmya Thirumalai
+
+**Abstract:** Despite improvements in and access to clinical genetic testing, many patients with classic phenotypes remain without a molecular diagnosis. Such cases may reflect variants in noncoding regions or complex alleles made up of disparate sequence variants. In this article, we report a patient with autosomal dominant polycystic kidney disease caused by a deep intronic de novo single-nucleotide substitut...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502691/](https://pubmed.ncbi.nlm.nih.gov/42502691/)
+
+---
+
+### 6. Exploration of the Potential Mechanisms of Yinqiao Powder in Treating Atopic Dermatitis: Integrating Network Pharmacology, Single-Cell, and Bulk RNA Sequencing.
+**Source:** PubMed | **Journal/Venue:** Journal of asthma and allergy
+
+**Authors:** Luo Lila
+
+**Abstract:** Yinqiao powder (YQP) is a traditional Chinese medicine formula that has been widely used clinically to treat infectious diseases such as respiratory tract infections, influenza, and pneumonia, exhibiting anti-inflammatory and antiviral properties. This study aimed to investigate its therapeutic potential for atopic dermatitis (AD) and to identify its key target genes and active components. We perf...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502642/](https://pubmed.ncbi.nlm.nih.gov/42502642/)
+
+---
+
+### 7. Proteomic impacts of fertilization in crop plants: bridging molecular insights and sustainable agriculture.
+**Source:** PubMed | **Journal/Venue:** 3 Biotech
+
+**Authors:** Marimuthu Murali Reddy, Ridzuan Raihana, Abd-Aziz Nazrin
+
+**Abstract:** Optimizing crop production under shifting climate baselines requires transitioning from empirical fertilization to molecularly informed, precision nutrient management. While traditional agronomy evaluates fertilizer efficacy via macroscopic morpho-physiological traits, the underlying sub-cellular mechanisms remain poorly integrated into field practices. This review synthesizes the comparative crop...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502422/](https://pubmed.ncbi.nlm.nih.gov/42502422/)
+
+---
+
+### 8. WGCNA-based identification and experimental validation of TOP2A as a key regulator of ferroptosis in sepsis-associated acute respiratory distress syndrome.
+**Source:** PubMed | **Journal/Venue:** Cytotechnology
+
+**Authors:** Wang Na, Li Kang, Gong Chuanyong
+
+**Abstract:** Sepsis-associated acute respiratory distress syndrome (SA-ARDS) is a severe disease with high morbidity and mortality. Emerging evidence indicates that ferroptosis plays a critical role in the development of SA-ARDS. However, the key regulatory targets and underlying molecular mechanisms remain to be further elucidated. Weighted gene co-expression network analysis (WGCNA) was performed based on th...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502316/](https://pubmed.ncbi.nlm.nih.gov/42502316/)
+
+---
+
+### 9. CD5L is a potential negative regulator of chondrocyte apoptosis in osteoarthritis.
+**Source:** PubMed | **Journal/Venue:** Osteoarthritis and cartilage open
+
+**Authors:** Brigant Benjamin, Rasheed Kashif, Gómez Ortega Carolina
+
+**Abstract:** CD5 antigen-like (CD5L) protein is a scavenger receptor involved in inflammation control and enriched in the synovial fluid and membranes of osteoarthritis (OA) patients. Although increased CD5L levels have been associated with OA pathology, its direct role in chondrocytes and contribution to cartilage degeneration remain unknown. We investigated the impact of CD5L on human chondrocytes in the con...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502312/](https://pubmed.ncbi.nlm.nih.gov/42502312/)
+
+---
+
+### 10. Detection of Point Mutation in Individual Living Circulating Malignant Cells by Targeting Molecular Beacon Delivery.
+**Source:** PubMed | **Journal/Venue:** Small (Weinheim an der Bergstrasse, Germany)
+
+**Authors:** Liao Xin-Ru, Han Di, Gao Qing-Yu
+
+**Abstract:** As a prevalent form of genetic alteration, single-base substitution serves as a critical determinant of targeted cancer therapeutic strategies and a driver of acquired drug resistance. Despite its clinical significance, detecting these mutations at the single-cell level remains challenging due to high costs, long analysis times, and difficulties in capturing real-time cellular dynamics and tumor h...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502197/](https://pubmed.ncbi.nlm.nih.gov/42502197/)
+
+---
+
+### 11. Integrative population genomics and tissue-specific expression profiling in cattle using whole-genome sequence resources.
+**Source:** PubMed | **Journal/Venue:** BMC genomics
+
+**Authors:** Saeed-Zidane Mohammed, Blaj Iulia, Yousif Amira
+
+**Abstract:** Large-scale genomic resources enable systematic investigation of genetic variation and tissue-specific expression of immune-related pathways in livestock species. Here, we integrated population-level whole-genome sequence data with tissue-specific transcriptional profiling to characterize genomic differentiation and expression patterns of NF-κB pathway-related genes in cattle. Using whole-genome s...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502156/](https://pubmed.ncbi.nlm.nih.gov/42502156/)
+
+---
+
+### 12. Clove oil in combination with flurbiprofen attenuated imiquimod-induced psoriasis-like skin inflammation in a mouse model: A mechanistic study.
+**Source:** PubMed | **Journal/Venue:** Inflammopharmacology
+
+**Authors:** Xing Qianqian, Wang Shuaijie, Zubair Hafiz Muhammad
+
+**Abstract:** Psoriasis is an immune-mediated chronic inflammatory skin disease characterized by scaly plaques, erythema, and thick skin. Psoriasis management is complicated and multifaceted as this disease is linked to serious systemic consequences like infections, psoriatic arthritis, cardiovascular diseases, and psychological complications. In the current study, a mice model of psoriasis was established by t...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502130/](https://pubmed.ncbi.nlm.nih.gov/42502130/)
+
+---
+
+### 13. Thioredoxin interacting protein (TXNIP), a redox regulator, mediates the EPAC-RAP1 signaling dependency of primary melanoma.
+**Source:** PubMed | **Journal/Venue:** Oncogene
+
+**Authors:** Teertam Sireesh Kumar, Singh Mithalesh K, Altameemi Sarah
+
+**Abstract:** Progression of cutaneous primary melanoma that arises from melanocytes leads to lethal metastatic disease. Molecular mechanisms that control the growth of primary melanoma in the skin and promote progression are not fully understood. Previously we showed that RAP guanine exchange factors EPAC1/2 (Exchange Proteins Activated by cyclic AMP) promote the growth of primary melanoma and loss of dependen...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502103/](https://pubmed.ncbi.nlm.nih.gov/42502103/)
+
+---
+
+### 14. Ginsenoside Rg1 mitigates epidural fibrosis after laminectomy in rats: histopathological, TUNEL, and transcriptional evidence.
+**Source:** PubMed | **Journal/Venue:** European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society
+
+**Authors:** Yurtal Ziya, Kulualp Kadri, Keçeli Hasan Hüseyin
+
+**Abstract:** Epidural fibrosis (EF) and peridural adhesions remain important causes of adverse outcomes after laminectomy, and no standard preventive strategy has yet been established. This study investigated the antifibrotic effect of oral ginsenoside Rg1 administration in a rat model of laminectomy-induced EF using histopathological assessment, TUNEL staining, and RT-qPCR-based analysis of Tgfb1, Smad2, and ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502075/](https://pubmed.ncbi.nlm.nih.gov/42502075/)
+
+---
+
+### 15. Exposure to three levels of CO
+**Source:** PubMed | **Journal/Venue:** Comparative biochemistry and physiology. Part A, Molecular & integrative physiology
+
+**Authors:** Hutton Melody L, Minns Rosemary C, Wallace Grace E
+
+**Abstract:** Elevated atmospheric carbon dioxide (CO...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501961/](https://pubmed.ncbi.nlm.nih.gov/42501961/)
+
+---
+
+### 16. Targeting FBXO48 with BC1618 promotes axon regeneration and alleviates symptoms of Parkinson's disease.
+**Source:** PubMed | **Journal/Venue:** Journal of advanced research
+
+**Authors:** Sun Yong-Quan, Liu Pei-Pei, Li Chang-Ping
+
+**Abstract:** Neurons depend on the ubiquitin system to maintain proteostasis, which plays crucial roles in processes of neuronal death and axon regeneration after injuries and diseases. Developing druggable targets within the ubiquitin system that simultaneously support neuroprotection and axon regeneration has been considered an attractive therapeutic strategy. To systematically identify druggable molecules w...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501864/](https://pubmed.ncbi.nlm.nih.gov/42501864/)
+
+---
+
+### 17. Scleroglucan ameliorates dextran sulfate sodium-induced ulcerative colitis and gut microbiota dysbiosis in mice.
+**Source:** PubMed | **Journal/Venue:** International journal of biological macromolecules
+
+**Authors:** Zhao Yiyi, Wen Yanlong, Yin Dafang
+
+**Abstract:** β-1,3/1,6-Glucans exhibit significant potential as therapeutic agents for ulcerative colitis (UC); nevertheless, most existing studies have focused on yeast β-glucans. In the current research, we assessed the therapeutic effects of scleroglucan (SCL), a β-1,3/1,6-glucan produced from the fungus Sclerotium rolfsii, by using a dextran sulfate sodium (DSS)-induced mouse model. SCL treatment significa...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501847/](https://pubmed.ncbi.nlm.nih.gov/42501847/)
+
+---
+
+### 18. JUN participates in ERK-mediated regulation of inflammation-related gene expression during molting in Eriocheir sinensis.
+**Source:** PubMed | **Journal/Venue:** International journal of biological macromolecules
+
+**Authors:** Xi Yuting, Yu Jinming, Xu Yiyang
+
+**Abstract:** Molting is an essential physiological process for crustaceans and is accompanied by dynamic immune fluctuations. 20-Hydroxyecdysone (20E), a key steroid hormone that drives the molting process, rises sharply at the pre-molt stage. However, the molecular mechanisms by which 20E coordinates stage-dependent immune regulation remain poorly understood. In this study, a JUN homolog was identified from E...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501844/](https://pubmed.ncbi.nlm.nih.gov/42501844/)
+
+---
+
+### 19. Energy-efficient codon optimization on thermodynamic hardware
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Andraz Jelincic, Ross C. Walker
+
+**Abstract:** The growing energy demand for computation is becoming increasingly unsustainable. Thermodynamic computing, which harnesses physical thermal fluctuations as a computational resource rather than suppressing them, offers orders-of-magnitude energy savings for probabilistic and combinatorial tasks. Pharmaceutical R&D, heavily reliant on computational optimization and sampling, is a natural application...
+
+**Link:** [http://arxiv.org/abs/2606.17327v1](http://arxiv.org/abs/2606.17327v1)
+
+---
+
+### 20. Drug-like antibodies with low immunogenicity in human panels designed with Latent-X2
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:**  Latent Labs Team, Henry Kenlay, Daniella Pretorius
+
+**Abstract:** Drug discovery has long sought computational systems capable of designing drug-like molecules directly: developable and non-immunogenic from the start. Here we introduce Latent-X2, a frontier generative model that achieves this goal through zero-shot design of antibodies with strong binding affinities, drug-like properties, and, for the first time for any de novo generated antibody, confirmed low ...
+
+**Link:** [http://arxiv.org/abs/2512.20263v1](http://arxiv.org/abs/2512.20263v1)
+
+---
+
+### 21. Corrected Hill Function in Stochastic Gene Regulatory Networks
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Manuel Eduardo Hernández-García, Jorge Velázquez-Castro
+
+**Abstract:** Describing reaction rates in stochastic bio-circuits is commonly done by directly introducing the deterministically deduced Hill function into the master equation. However, when fluctuations in enzymatic reaction rates are not neglectable, the Hill function must be derived, considering all the involved stochastic reactions. In this work, we derived the stochastic version of the Hill function from ...
+
+**Link:** [http://arxiv.org/abs/2307.03057v4](http://arxiv.org/abs/2307.03057v4)
+
+---
+
+### 22. Integrated multi-omics analysis suggests a potential mechanism of DEHP-induced monocyte infiltration in MASH via the FOS-CCL3/4 axis.
+**Source:** PubMed | **Journal/Venue:** Ecotoxicology and environmental safety
+
+**Authors:** Wang Chaojie, Zhang Zhihao, Huang Yuqing
+
+**Abstract:** Di-(2-ethylhexyl) phthalate (DEHP) is a widespread environmental obesogen; however, its immune-proinflammatory mechanisms in the progression of metabolic dysfunction-associated steatohepatitis (MASH) remain incompletely elucidated. This study aims to comprehensively characterize the core targets and molecular mechanisms by which DEHP disrupts the hepatic microenvironment and drives disease progres...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501686/](https://pubmed.ncbi.nlm.nih.gov/42501686/)
+
+---
+
+### 23. From phenotype to mechanism: background-dependent function of 
+**Source:** PubMed | **Journal/Venue:** Frontiers in microbiology
+
+**Authors:** Wang Lining, Ma Chaoxue, Zhao Siyu
+
+**Abstract:** The two haploids, Ct001_29 and Ct001_31, derived from the thermotolerant strain ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42499662/](https://pubmed.ncbi.nlm.nih.gov/42499662/)
+
+---
+
+### 24. Sequential expression of heat shock proteins 70 contributing to the heat response of Haemaphysalis longicornis (Acari: Ixodidae).
+**Source:** PubMed | **Journal/Venue:** Journal of thermal biology
+
+**Authors:** Gao Jinrong, Li Tong, Cui Litian
+
+**Abstract:** The hard tick Haemaphysalis longicornis serves as a vector for multiple pathogens and can cause severe tick-borne diseases. Temperature is a key environmental factor influencing its population dynamics and disease transmission risk. As a crucial molecular mechanism underlying thermal adaptation, the upregulation of heat shock protein 70 (Hsp70) is generally regarded as an important adaptive respon...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497653/](https://pubmed.ncbi.nlm.nih.gov/42497653/)
+
+---
+
+### 25. Viral replication dynamics: Coinfection and superinfection of Vero cells with Zika virus and West Nile virus or Zika virus and Mayaro virus.
+**Source:** PubMed | **Journal/Venue:** PloS one
+
+**Authors:** Krokovsky Larissa, Garrido de Castro Mariana, Williams Amanda J M
+
+**Abstract:** Globalization and climate change have contributed to the emergence and spread of arboviruses, with the possibility of their cocirculation in the same geographic region at the same time. Understanding the effects of concurrent infections within a mosquito vector or human host is therefore an emerging focus in arboviral research. Studies using mosquito- and mammalian-derived cell lines provide a con...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497147/](https://pubmed.ncbi.nlm.nih.gov/42497147/)
+
+---
+
+### 26. [Expression of Concern] Exposure to acoustic stimuli promotes the development and differentiation of neural stem cells from the cochlear nuclei through the clusterin pathway.
+**Source:** PubMed | **Journal/Venue:** International journal of molecular medicine
+
+**Authors:** Xue Tao, Wei Li, Zha Ding-Jun
+
+**Abstract:** Following the publication of this paper, it was drawn to the Editor's attention by a concerned reader that various of the flow cytometry plots featured in Fig. 6A subsequently appeared in six papers written by different authors at different research institutes that were published in the years 2017‑8, one of which has since been retracted (a paper in ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42495758/](https://pubmed.ncbi.nlm.nih.gov/42495758/)
+
+---
+
+### 27. Shared CRISPR arrays underpin type I-A/I-B coexistence.
+**Source:** PubMed | **Journal/Venue:** Protein & cell
+
+**Authors:** Liu Kunming, Ren Chunjiang, Liu Xinyue
+
+**Abstract:** CRISPR-Cas systems provide adaptive immunity in prokaryotes, yet how multiple CRISPR-Cas subtypes coexist and coordinate within a single genome remains unclear. Comparative genomic analysis revealed that nearly one-third of type I-A CRISPR-Cas3 systems are adjacent to a type I-B system, often sharing a single CRISPR array. Using Thermococcus siculi RG-20 (Tsi) as a model, we show that purified Tsi...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42494101/](https://pubmed.ncbi.nlm.nih.gov/42494101/)
+
+---
+
+### 28. ABCG and ABCH transporters at the interface of cuticular lipid transport and insecticide handling.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Qiao Jian-Wen, Li Li, Mobarak Syed Husne
+
+**Abstract:** ATP-binding cassette (ABC) transporters are widely associated with insecticide resistance, yet the physiological links between endogenous transport and xenobiotic handling remain incompletely resolved for ABCG and arthropod-associated ABCH subfamilies. Unlike many canonical full ABC transporters, ABCG and ABCH proteins usually have reverse half-transporter topology and require dimeric assembly, cr...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493065/](https://pubmed.ncbi.nlm.nih.gov/42493065/)
+
+---
+
+### 29. Cell autophagy promotes nucleopolyhedrovirus infection in the fall armyworm.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Qian Xin, Li Ting, Lu Juan
+
+**Abstract:** Pathogens, such as nucleopolyhedroviruses (NPVs), are promising biological control agents for lepidopteran pests to protect crops. However, a major drawback, their field application is limited by slower virulence compared with chemical insecticides. Modulating host pathways to enhance viral infectivity offers a potential strategy for improving NPV-based biocontrol. In this study, the expression le...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493063/](https://pubmed.ncbi.nlm.nih.gov/42493063/)
+
+---
+
+### 30. PxTret1-mediated trehalose transport regulates development and reproduction in Plutella xylostella with implications for Cry1Ac tolerance.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Wang Yingpeng, Fu Qiaoru, Xie Liya
+
+**Abstract:** Trehalose transporter 1 (TRET1) plays a key role in insect trehalose homeostasis and abiotic stress adaptation. However, its role in insecticide susceptibility remains largely unexplored, particularly to Bacillus thuringiensis toxins. In Plutella xylostella, we found that PxTret1 is post-transcriptionally regulated by pxy-miR-8522. Furthermore, PxTret1 was significantly upregulated following Cry1A...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493032/](https://pubmed.ncbi.nlm.nih.gov/42493032/)
+
+---
+
+### 31. NPFF2 regulate thiamethoxam resistance by over-expressing CYP6CX4 in Bemisia tabaci.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Zhang Ying, Zhang Rong, Lu Hantang
+
+**Abstract:** The whitefly, Bemisia tabaci, as a globally significant agricultural pest, poses a serious threat to various food crops and thus causes enormous economic losses to global agricultural production. In recent decades, with the long-term and extensive use of chemical pesticides, B. tabaci has developed high levels resistance to thiamethoxam. Therefore, an in-depth analysis of the molecular mechanisms ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493024/](https://pubmed.ncbi.nlm.nih.gov/42493024/)
+
+---
+
+### 32. Cooperative detoxification through GSTm1 and GSTs2 reveals distinct transcription factors BH1 and zen2 in dinotefuran resistance in Nilaparvata lugens.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Tang Bingjie, Hu Yutao, Liu Bin
+
+**Abstract:** The brown planthopper (BPH), Nilaparvata lugens (Stål), is a major rice pest across Asia. Control of N. lugens has been mainly relied on chemical insecticides. However, overuse has contributed to emergence of high-level insecticide resistances, particularly neonicotinoids like dinotefuran. Glutathione S-transferases (GSTs) play crucial roles in detoxifying insecticides involved in metabolic resist...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493019/](https://pubmed.ncbi.nlm.nih.gov/42493019/)
+
+---
+
+### 33. Roles of mdh and MAP1981c in Mycobacterium avium subsp. paratuberculosis intracellular survival within bovine monocyte-derived macrophages via CRISPR interference.
+**Source:** PubMed | **Journal/Venue:** Microbial pathogenesis
+
+**Authors:** Lee Jun Ho, Lee Eun-Seo, Xiang Xi-Rui
+
+**Abstract:** Mycobacterium avium subsp. paratuberculosis (MAP) is the causative agent of Johne's disease, a chronic enteritis in ruminants, and is capable of persisting within macrophages despite the activation of host immune defenses. Although this intracellular persistence is a key determinant of MAP pathogenicity, the bacterial factors and host responses that regulate this process remain poorly understood. ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42492860/](https://pubmed.ncbi.nlm.nih.gov/42492860/)
+
+---
+
+### 34. The mechanism by which long-term exposure to TDCIPP promotes cognitive impairment in 3 ×Tg-AD mice: Insights from multi-omics studies.
+**Source:** PubMed | **Journal/Venue:** Neurotoxicology
+
+**Authors:** Yang Tingting, Liu Yu, Liang Ruoxuan
+
+**Abstract:** Tri(1,3-dichloro-2-propyl) phosphate (TDCIPP) is a commonly used organophosphate ester that has the potential to adversely affect human health. Although previous studies have closely associated TDCIPP with cognitive impairment, the underlying mechanisms remain unclear. To elucidate the neurotoxic effects of TDCIPP and its mechanistic contribution to cognitive impairment in 3 ×Tg-AD mice, a multi-o...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42492782/](https://pubmed.ncbi.nlm.nih.gov/42492782/)
+
+---
+
+### 35. Engineering T7 RNA Polymerase for High-Purity In Vitro Transcription
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Pauline Hermans, Youlia Serikova, José Castillo
+
+**Abstract:** In vitro transcription using bacteriophage T7 RNA polymerase (T7 RNAP) is the gold-standard platform for RNA production in both research and therapeutic applications. Despite its high processivity and promoter specificity, T7 RNAP generates multiple RNA by-products, including double-stranded RNA, 3'-extended transcripts, abortive RNAs, and prematurely terminated products. These impurities reduce R...
+
+**Link:** [http://arxiv.org/abs/2607.18468v1](http://arxiv.org/abs/2607.18468v1)
+
+---
+
+### 36. Enhanced sampling and cryo-EM data resolve magnesium binding to RNA
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Olivier Languin-Cattoën, Elisa Posani, Giovanni Bussi
+
+**Abstract:** Magnesium ions are essential for RNA structure but difficult to model due to slow binding kinetics and experimental limitations. We present an enhanced-sampling strategy that accelerates Mg$^{2+}$ inner-shell binding by orders of magnitude, enabling quantitative exploration of ion-binding motifs in a large ribozyme. The method combines a barrier-flattening bias with Hamiltonian replica exchange to...
+
+**Link:** [http://arxiv.org/abs/2607.07186v1](http://arxiv.org/abs/2607.07186v1)
+
+---
+
+### 37. Bayesian Sampling of Structural Ensembles: The Role of Ensemble-Counting Measures
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Ivan Gilardoni, Giovanni Bussi
+
+**Abstract:** Structural ensemble refinement is widely used to integrate molecular simulations with experimental measurements. While most applications focus on the maximum-a-posteriori (MAP) ensemble, Bayesian sampling of the posterior distribution can provide uncertainty estimates and posterior averages for arbitrary observables. A notable step in this direction was introduced by the Bayesian Energy Landscape ...
+
+**Link:** [http://arxiv.org/abs/2606.18495v1](http://arxiv.org/abs/2606.18495v1)
+
+---
+
+### 38. MultiMolecule: a modular ecosystem for biomolecular sequence-model workflows
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Zhiyuan Chen
+
+**Abstract:** Biomolecular sequence models are increasingly reused outside the studies in which they were introduced, but public checkpoints rarely preserve the execution context needed to inspect source-defined behavior, adapt models to new assays, compare models under shared task definitions or deploy biological predictions. MultiMolecule is an open-source Python ecosystem that turns heterogeneous RNA, DNA an...
+
+**Link:** [http://arxiv.org/abs/2606.16540v1](http://arxiv.org/abs/2606.16540v1)
+
+---
+
+### 39. The Montparnasse Algorithm for RNA Design
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Tristan Cazenave
+
+**Abstract:** RNA design consists of discovering a nucleotide sequence that optimizes predefined criteria, such as secondary structure. It is useful for synthetic biology, medicine, and nanotechnology. We propose Montparnasse, a Monte Carlo search framework based on Generalized Nested Rollout Policy Adaptation, augmented with a problem-specific prior, slow and long adaptation at level 1, and a lexicographic mul...
+
+**Link:** [http://arxiv.org/abs/2606.07562v1](http://arxiv.org/abs/2606.07562v1)
+
+---
+
+### 40. Multimodal Alignment and Preference Optimization for Zero-Shot Conditional RNA Generation
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Roman Klypa, Alberto Bietti, Sergei Grudinin
+
+**Abstract:** The design of RNA molecules that interact with specific proteins is a critical challenge in experimental and computational biology. Despite recent progress in natural language modeling and deep learning-based protein design, there remains significant room to improve the frequency of successful interactions and the authenticity of generated sequences for functional applications. In this work, we fr...
+
+**Link:** [http://arxiv.org/abs/2605.23961v1](http://arxiv.org/abs/2605.23961v1)
+
+---
+
+### 41. GoForth: Language Models for RNA Design under Structure, Sequence, and Coding Constraints
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Michael Lindsey
+
+**Abstract:** RNA inverse sequence design has broad biological and engineering applications, but computational methods for practical design queries remain limited. Such queries may impose several constraints at once, including target folds or motifs, fixed bases, and coding restrictions, while leaving arbitrary sequence and structure in unspecified regions. Because these constraints may permit many acceptable s...
+
+**Link:** [http://arxiv.org/abs/2605.07608v1](http://arxiv.org/abs/2605.07608v1)
+
+---
+
+### 42. Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Johannes Harth-Kitzerow, Ulrich Gerland, Torsten A. Enßlin
+
+**Abstract:** The RNA world hypothesis suggests a pathway of how life emerged on early earth. It assumes that life started with RNA based systems, capable of storing, transmitting and replicating information, envisioning that monomers and short RNA oligomers interact to form longer strands, eventually becoming catalytically active ribozymes. Key reactions in RNA pools are hybridization, dehybridization, templat...
+
+**Link:** [http://arxiv.org/abs/2604.25701v2](http://arxiv.org/abs/2604.25701v2)
+
+---
+
+### 43. VARIANT: Web Server for Decoding and Analyzing Viral Mutations at Genome and Protein Levels
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Rui Wang, Xuhang Dai, Xin Cao
+
+**Abstract:** A comprehensive analysis of viral mutations is essential for understanding viral evolution, disease epidemiology, diagnosis, drug resistance, etc. However, challenges remain in capturing complex mutation patterns and supporting diverse viral families with varying genome architectures. To address these needs, we present VARIANT, an web server for mutational analysis of RNA viral genomes and associa...
+
+**Link:** [http://arxiv.org/abs/2604.20942v1](http://arxiv.org/abs/2604.20942v1)
+
+---
+
+### 44. Interfacial Potential Transduction for Diagnostics
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Hyun-June Jang, Peuli Nath, Yuqin Wang
+
+**Abstract:** A major barrier to decentralized, near-patient diagnostics is the lack of a signal transduction modality that is both analytically precise and accessible at the point of care. Optical readouts remain instrument-dependent and difficult to miniaturize, while compact electrochemical readouts are prone to matrix-derived signal distortion, limiting their biomarker coverage in real clinical settings. He...
+
+**Link:** [http://arxiv.org/abs/2603.23775v1](http://arxiv.org/abs/2603.23775v1)
+
+---
+
+### 45. ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Josef Hanke, Sebastian Pujalte Ojeda, Shengyu Zhang
+
+**Abstract:** The accurate prediction of protein-RNA binding affinity remains an unsolved problem in structural biology, limiting opportunities in understanding gene regulation and designing RNA-targeting therapeutics. A central obstacle is the structural flexibility of RNA, as, unlike proteins, RNA molecules exist as dynamic conformational ensembles. Thus, committing to a single predicted structure discards in...
+
+**Link:** [http://arxiv.org/abs/2603.23583v1](http://arxiv.org/abs/2603.23583v1)
+
+---
+
+### 46. Computational modeling of RNA-protein binding interactions under an external force
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Danielle Wampler, Ralf Bundschuh
+
+**Abstract:** RNA binding proteins play a crucial role in post-transcriptional gene regulation by controlling the transport, processing, and translation of their target RNAs. Post-transcriptional gene regulation leads to the differential expression of genetic material and loss of regulation or over-regulation relates to a large range of cancers and diseases - many of which have directly been associated with RNA...
+
+**Link:** [http://arxiv.org/abs/2603.22269v1](http://arxiv.org/abs/2603.22269v1)
+
+---
+
+### 47. Fair splits flip the leaderboard: CHANRG reveals limited generalization in RNA secondary-structure prediction
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Zhiyuan Chen, Zhenfeng Deng, Pan Deng
+
+**Abstract:** Accurate prediction of RNA secondary structure underpins transcriptome annotation, mechanistic analysis of non-coding RNAs, and RNA therapeutic design. Recent gains from deep learning and RNA foundation models are difficult to interpret because current benchmarks may overestimate generalization across RNA families. We present the Comprehensive Hierarchical Annotation of Non-coding RNA Groups (CHAN...
+
+**Link:** [http://arxiv.org/abs/2603.22330v1](http://arxiv.org/abs/2603.22330v1)
+
+---
+
+### 48. Reverse Distillation: Consistently Scaling Protein Language Model Representations
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Darius Catrina, Christian Bepler, Samuel Sledzieski
+
+**Abstract:** Unlike the predictable scaling laws in natural language processing and computer vision, protein language models (PLMs) scale poorly: for many tasks, models within the same family plateau or even decrease in performance, with mid-sized models often outperforming the largest in the family. We introduce Reverse Distillation, a principled framework that decomposes large PLM representations into orthog...
+
+**Link:** [http://arxiv.org/abs/2603.07710v1](http://arxiv.org/abs/2603.07710v1)
+
+---
+
+### 49. Fast and Versatile RNA Design via Motif-level Divide-and-Conquer and Structure-level Rival Search
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Tianshuo Zhou, David H. Mathews, Liang Huang
+
+**Abstract:** RNA design aims to identify RNA sequences that fold into a target secondary structure. This task is challenging in terms of computational efficiency. Most existing methods focus on either minimum free energy (MFE)-based or ensemble-based metrics, leaving a gap for a unified approach that performs well across both. We introduce a fast and versatile RNA design algorithm inspired by our previous work...
+
+**Link:** [http://arxiv.org/abs/2603.02283v1](http://arxiv.org/abs/2603.02283v1)
+
+---
+
+### 50. CryoNet.Refine: A One-step Diffusion Model for Rapid Refinement of Structural Models with Cryo-EM Density Map Restraints
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Fuyao Huang, Xiaozhu Yu, Kui Xu
+
+**Abstract:** High-resolution structure determination by cryo-electron microscopy (cryo-EM) requires the accurate fitting of an atomic model into an experimental density map. Traditional refinement pipelines such as Phenix.real_space_refine and Rosetta are computationally expensive, demand extensive manual tuning, and present a significant bottleneck for researchers. We present CryoNet.Refine, an end-to-end dee...
+
+**Link:** [http://arxiv.org/abs/2602.22263v2](http://arxiv.org/abs/2602.22263v2)
+
+---
+
+### 51. CPTCs Drive Somatic-Visceral Communication via the Wnt Axis in Somatic Mechanotherapy: A Single-Cell Deep Learning Study
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Haixiang Huang, Zhenwei Zhang, BingBing Shen
+
+**Abstract:** Somatic mechanical stimulation (e.g., acupuncture) exerts systemic immunomodulatory effects, yet the cellular bridge translating peripheral physical force into visceral repair remains elusive. Here, employing a custom interpretable deep learning framework (CARSS) on single-cell RNA sequencing data, we identify CD34$^{+}$PDGFR$α$$^{+}$ telocytes (CPTCs) as the primary mechanosensors in both fascia ...
+
+**Link:** [http://arxiv.org/abs/2602.05451v2](http://arxiv.org/abs/2602.05451v2)
+
+---
+
+### 52. Tensor-DTI: Enhancing Biomolecular Interaction Prediction with Contrastive Embedding Learning
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Manel Gil-Sorribes, Júlia Vilalta-Mor, Isaac Filella-Mercè
+
+**Abstract:** Accurate drug-target interaction (DTI) prediction is essential for computational drug discovery, yet existing models often rely on single-modality predefined molecular descriptors or sequence-based embeddings with limited representativeness. We propose Tensor-DTI, a contrastive learning framework that integrates multimodal embeddings from molecular graphs, protein language models, and binding-site...
+
+**Link:** [http://arxiv.org/abs/2601.05792v1](http://arxiv.org/abs/2601.05792v1)
+
+---
+
+### 53. MERGE-RNA: a physics-based model to predict RNA secondary structure ensembles with chemical probing
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Giuseppe Sacco, Jianhui Li, Redmond P. Smyth
+
+**Abstract:** RNA function is tied to secondary structure, operating through dynamic and heterogeneous structural ensembles. While current analysis tools typically output single static structures or averaged contact maps, chemical probing methods like DMS capture nucleotide-resolution signals representing the full structural ensemble, which remain difficult to interpret structurally. To address this, we present...
+
+**Link:** [http://arxiv.org/abs/2512.20581v3](http://arxiv.org/abs/2512.20581v3)
+
+---
+
+### 54. Whole-genome discovery of pathogenic snRNA variants and efficient extended-exome screening.
+**Source:** PubMed | **Journal/Venue:** iScience
+
+**Authors:** Nakano Yuka, Suzuki Hisato, Kuroda Yukiko
+
+**Abstract:** Pathogenic variants in small nuclear RNA (snRNA) genes have recently emerged as a major cause of Mendelian disorders, particularly neurodevelopmental disorders, yet they remain difficult to detect in routine diagnostics because conventional whole-exome sequencing (WES) does not capture snRNA loci. Here, we reanalyzed whole-genome sequencing (WGS) data from 1,578 unsolved probands and identified pa...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502410/](https://pubmed.ncbi.nlm.nih.gov/42502410/)
+
+---
+
+### 55. Design and development of therapeutics targeting METTL14-mediated signaling pathways to treat cardiovascular diseases.
+**Source:** PubMed | **Journal/Venue:** European journal of medicinal chemistry
+
+**Authors:** Yang Yutong, Zheng Suqing, Lin Fu
+
+**Abstract:** Cardiovascular disease (CVD) encompasses a group of severe cardiac and vascular disorders with high global prevalence and mortality rates. CVD is characterized by abnormal cell death and inflammation of cardiomyocytes and vascular endothelial cells, involving mutually interconnected pathogenic mechanisms. N6-methyladenosine (m6A) RNA modification has emerged as a key mechanism promoting the progre...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501454/](https://pubmed.ncbi.nlm.nih.gov/42501454/)
+
+---
+
+### 56. A Comparative Study of Genital Lichen Sclerosus Transcriptomes.
+**Source:** PubMed | **Journal/Venue:** Acta naturae
+
+**Authors:** Margasyuk S D, Kuznetsova A L, Skvortsov D A
+
+**Abstract:** Genital lichen sclerosus (GLS) is a chronic inflammatory dermatosis that affects the genital skin. Despite different clinical manifestations, the pathogenesis of GLS in men and women is believed to be common and is attributed to a combination of autoimmune and genetic factors. In this study, we compared the transcriptomic profiles of penile (mGLS) and vulvar lichen sclerosus (VLS), aiming to ident...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42499679/](https://pubmed.ncbi.nlm.nih.gov/42499679/)
+
+---
+
+### 57. Atranorin suppresses the LUCAT1/STAT3 axis to induce ferroptotic cell death in ovarian cancer.
+**Source:** PubMed | **Journal/Venue:** Molecular biology reports
+
+**Authors:** Al-Qaysi Ahmed Saad Abdullah, Ensoy Mine, Cansaran-Duman Demet
+
+**Abstract:** Ovarian cancer remains the most lethal gynecological malignancy and represents a major cause of cancer-related mortality among women worldwide. Despite advances in therapeutic strategies, treatment efficacy is frequently limited by systemic toxicity, chemoresistance, and disease recurrence, highlighting the urgent need for novel, mechanism-based targeted therapies with improved safety profiles. In...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42496762/](https://pubmed.ncbi.nlm.nih.gov/42496762/)
+
+---
+
+### 58. Cell surface RNAs define a new interface for immune recognition.
+**Source:** PubMed | **Journal/Venue:** Frontiers in immunology
+
+**Authors:** Zhang Xinming, Liao Jiahao, Chang Yuduo
+
+**Abstract:** Cell surface glycoRNAs have recently emerged as an unexpected class of RNA-glycan conjugates. Their discovery challenges the long-standing view that RNA is confined to intracellular compartments. These small noncoding RNAs, modified with N- or O-linked glycans and displayed on the outer leaflet of the plasma membrane, create a unique molecular interface recognizable by both glycan-binding and nucl...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42495650/](https://pubmed.ncbi.nlm.nih.gov/42495650/)
+
+---
+
+### 59. An Evaluation on the Role of Non-Coding RNA in HIV Transcription and Latency: A Review
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Xiangshuai Liu
+
+**Abstract:** The existence of latent cellular reservoirs is recognized as the major barrier to an HIV cure. Reactivating and eliminating "shock and kill" or permanently silencing "block and lock" the latent HIV reservoir, as well as gene editing, remain promising approaches, but so far have proven to be only partially successful. Moreover, using latency reversing agents or "block and lock" drugs pose additiona...
+
+**Link:** [http://arxiv.org/abs/2502.06107v1](http://arxiv.org/abs/2502.06107v1)
+
+---
+
+### 60. AntagomiR-155 hitchhiking on biomimetic yeast microcapsules alleviate atherosclerosis by inhibiting M1-like macrophages.
+**Source:** PubMed | **Journal/Venue:** Materials today. Bio
+
+**Authors:** Zhang Ruilin, Wu Ya, Kou Tao
+
+**Abstract:** Atherosclerosis progression is driven by the plasticity of plaque macrophages, making the suppression of M1-like macrophage polarization a promising therapeutic goal. While inhibiting the M1-regulator microRNA-155 (miR-155) is a viable strategy, its clinical application is limited with inadequate systemic bioavailability and off-target organ damage. Herein, we developed YC/ANM-155, an orally deliv...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502820/](https://pubmed.ncbi.nlm.nih.gov/42502820/)
+
+---
+
+### 61. Exosomes delivering a high-throughput-screened RNA polymerase inhibitor for highly effective therapy of multidrug-resistant bacterial infected pneumonia.
+**Source:** PubMed | **Journal/Venue:** Bioactive materials
+
+**Authors:** Xiang Yiming, Gong Ziya, Liu Juying
+
+**Abstract:** Bacterial pneumonia remains a primary global health threat, necessitating the development of novel therapeutic strategies to overcome escalating antibiotic resistance. In this study, we identified a highly active bacterial RNAP inhibitor, the repurposed semi-synthetic anthracycline hydrochloride Epirubicin (EPI), via the in silico high-throughput screening of a commercial library containing 16,563...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502321/](https://pubmed.ncbi.nlm.nih.gov/42502321/)
+
+---
+
+### 62. tRNA-derived small RNAs in tumor microenvironment remodeling: From mechanistic insights to therapeutic perspectives.
+**Source:** PubMed | **Journal/Venue:** Oncogene
+
+**Authors:** Zhang Yaguang
+
+**Abstract:** Transfer RNA-derived small RNAs (tsRNAs) represent an emerging class of non-coding RNAs involved in gene expression and cellular homeostasis. Growing evidence suggests that tsRNAs contribute to tumor initiation and progression, in part by reshaping the tumor microenvironment (TME). This review systematically summarizes the biogenesis and molecular mechanisms of tsRNAs and discusses how they regula...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502104/](https://pubmed.ncbi.nlm.nih.gov/42502104/)
+
+---
+
+### 63. Bioorthogonal epigenetic anchoring of heterochromatin to the nuclear lamina reverses senescence and osteoarthritis.
+**Source:** PubMed | **Journal/Venue:** Journal of advanced research
+
+**Authors:** Ren Xunshan, Zhuang Huangming, Zhu Junming
+
+**Abstract:** An increase in the number of senescent cells with advancing age is a major predisposing factor for aging-related osteoarthritis (OA). However, effective intervention strategies targeting cellular senescence have yet to be developed. Increasing evidence suggests that rising epigenetic entropy, specifically the detachment of heterochromatin from the nuclear envelope, is a driver of cellular senescen...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501863/](https://pubmed.ncbi.nlm.nih.gov/42501863/)
+
+---
+
+### 64. Therapeutic potential of antisense oligonucleotides in hematological malignancies.
+**Source:** PubMed | **Journal/Venue:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+
+**Authors:** Cousin Elie, Picard Agathe, Perrudin Elfie
+
+**Abstract:** Antisense oligonucleotides (ASOs) are short synthetic oligonucleotides composed of DNA, RNA, or chemically modified nucleotides, that represent a promising class of therapeutics for personalized medicine. This review synthesizes the clinical evidence from published studies evaluating ASOs in myelodysplastic syndromes, acute myeloid leukemia, acute lymphoblastic leukemia and chronic lymphocytic leu...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501515/](https://pubmed.ncbi.nlm.nih.gov/42501515/)
+
+---
+
+### 65. ETTAS: a modular aptamer-recruited platform for programmable translational activation.
+**Source:** PubMed | **Journal/Venue:** Nucleic acids research
+
+**Authors:** Li Aolin, Zhang Xiaoting, Li Senmao
+
+**Abstract:** Precise enhancement of endogenous protein synthesis offers a reversible therapeutic strategy without permanent genomic modification. However, existing Cas13-mediated translational activation systems are limited by modest potency and restricted modular expandability. Here, we developed the Enhanced Targeted Translational Activation System (ETTAS), a modular RNA-guided platform that combines dCas13a...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500818/](https://pubmed.ncbi.nlm.nih.gov/42500818/)
+
+---
+
+### 66. Prime editing in neuropsychiatric disorders: From mutation-specific target selection to clinical translation.
+**Source:** PubMed | **Journal/Venue:** Neuroprotection (Chichester, England)
+
+**Authors:** Ji Tianshan, Zhang Yuan, Zhao Jinyi
+
+**Abstract:** Prime editing, a novel clustered regularly interspaced short palindromic repeats (CRISPR)-based technology, fuses a reverse transcriptase (RT) to an engineered CRISPR-associated protein 9 (Cas9) and uses a prime editing guide RNA (pegRNA)-encoded template. It enables precise base substitutions, small insertions, and deletions without introducing double-strand breaks, thereby expanding the range of...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42499346/](https://pubmed.ncbi.nlm.nih.gov/42499346/)
+
+---
+
+### 67. Emerging and targeted therapeutic strategies in colorectal cancer: molecular mechanisms and clinical perspectives.
+**Source:** PubMed | **Journal/Venue:** Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico
+
+**Authors:** Ganguly Debgopal, Choudhury Ananta, Deka Himangshu
+
+**Abstract:** Colorectal cancer (CRC) remains a leading cause of cancer-related morbidity and mortality worldwide, driven by complex genetic, epigenetic, and environmental factors. Despite advances in conventional treatments such as surgery, chemotherapy, and radiotherapy, therapeutic resistance and disease recurrence continue to limit long-term outcomes. This review provides a comprehensive overview of emergin...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42498870/](https://pubmed.ncbi.nlm.nih.gov/42498870/)
+
+---
+
+### 68. Functional delivery of commercially-available microRNA mimics to the organs of developing mice.
+**Source:** PubMed | **Journal/Venue:** RNA (New York, N.Y.)
+
+**Authors:** Willen Sven, Myti Despoina, Obeidat Razan
+
+**Abstract:** MicroRNA are pivotal regulators of organ and tissue homeostasis and development, and pathogenic mediators of disease. While antagonism of specific microRNA species ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42498504/](https://pubmed.ncbi.nlm.nih.gov/42498504/)
+
+---
+
+### 69. MicroRNAs and SGLT2 inhibitors in cardiovascular disease: Shared pathways and emerging roles.
+**Source:** PubMed | **Journal/Venue:** Journal of molecular and cellular cardiology plus
+
+**Authors:** Bhaskaran Anna Bjarvin, Sakr Antoine, Doycheva Desislava
+
+**Abstract:** MicroRNAs are non-coding RNA sequences capable of transport outside the cell to regulate essential cellular processes. They are able to induce structural changes implicated in prevalent cardiovascular conditions such as heart failure, atherosclerosis and myocardial ischemia. SGLT2 inhibitors are newer anti-diabetic drugs used in the prevention and treatment of cardiovascular disease, which modulat...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42495428/](https://pubmed.ncbi.nlm.nih.gov/42495428/)
+
+---
+
+### 70. Selection of two pronuclei zygotes before electroporation does not improve gene editing efficiency or reduce mosaicism in porcine embryos despite optimized timing and Hoechst staining.
+**Source:** PubMed | **Journal/Venue:** Veterinary world
+
+**Authors:** Takebayashi Koki, Otoi Takeshige, Wittayarat Manita
+
+**Abstract:** Electroporation-mediated delivery of Clustered-Regularly Interspaced Short Palindromic Repeats (CRISPR)/CRISPR-associated protein 9 components is an effective approach for genome editing in porcine embryos; however, mosaicism remains a major limitation. Selecting normally fertilized zygotes with two pronuclei (2PN) before electroporation may improve editing uniformity and reduce mosaicism. Therefo...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42494698/](https://pubmed.ncbi.nlm.nih.gov/42494698/)
+
+---
+
+### 71. Exploratory profiling of serum small extracellular vesicle-associated miRNAs as candidate biomarkers for Moyamoya disease.
+**Source:** PubMed | **Journal/Venue:** Biochemistry and biophysics reports
+
+**Authors:** Yan Lin, Ding Hao, Zhao Ruifang
+
+**Abstract:** Moyamoya disease (MMD) is a chronic progressive cerebrovascular disease with elevated rates of mortality and disability in children and adults. Therefore, early and accurate identification of MMD is crucial for good prognosis, effective therapeutics, and increased clinical survival rates. Serum small extracellular vesicles (EVs) have attracted significant attention as innovative liquid biopsy biom...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42494421/](https://pubmed.ncbi.nlm.nih.gov/42494421/)
+
+---
+
+### 72. Precision control of maize stalk rot by cysteine-functionalized nanocarriers via the ZmLHT1 amino acid transporter.
+**Source:** PubMed | **Journal/Venue:** Pesticide biochemistry and physiology
+
+**Authors:** Liu Guoxin, Feng Xiaoxiao, Tang Bowen
+
+**Abstract:** Maize stalk rot (MSR) caused by Fusarium graminearum (F. graminearum) is a destructive soil-borne disease. Conventional fungicides, including tebuconazole (Teb), exhibited poor systemic translocation and basipetal transport, and seed coating provided only short-term protection, resulting is low efficacy. Here, we developed a cysteine-functionalized polysuccinimide nanocarrier loaded with tebuconaz...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42493018/](https://pubmed.ncbi.nlm.nih.gov/42493018/)
+
+---
+
+### 73. Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Motahareh Nazari, Keyvan Alavi
+
+**Abstract:** Precision oncology requires multifunctional platforms capable of integrating accurate tumor diagnosis, localized therapeutic delivery, immune modulation, and real-time monitoring of treatment response. Gelatin methacryloyl (GelMA) hydrogels have emerged as versatile biomaterials for biomedical engineering because of their biocompatibility, extracellular matrix-like structure, tunable mechanical pr...
+
+**Link:** [http://arxiv.org/abs/2606.29599v1](http://arxiv.org/abs/2606.29599v1)
+
+---
+
+### 74. Reinforcement-guided generative protein language models enable de novo design of highly diverse AAV capsids
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Lucas Ferraz, Ana F. Rodrigues, Pedro Giesteira Cotovio
+
+**Abstract:** Adeno-associated viral (AAV) vectors are widely used delivery platforms in gene therapy, and the design of improved capsids is key to expanding their therapeutic potential. A central challenge in AAV bioengineering, as in protein design more broadly, is the vast sequence design space relative to the scale of feasible experimental screening. Machine-guided generative approaches provide a powerful m...
+
+**Link:** [http://arxiv.org/abs/2603.19473v1](http://arxiv.org/abs/2603.19473v1)
+
+---
+
+### 75. Predicting Early and Complete Drug Release from Long-Acting Injectables Using Explainable Machine Learning
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Karla N. Robles, Manar D. Samad
+
+**Abstract:** Polymer-based long-acting injectables (LAIs) have transformed the treatment of chronic diseases by enabling controlled drug delivery, thus reducing dosing frequency and extending therapeutic duration. Achieving controlled drug release from LAIs requires extensive optimization of the complex underlying physicochemical properties. Machine learning (ML) can accelerate LAI development by modeling the ...
+
+**Link:** [http://arxiv.org/abs/2601.02265v1](http://arxiv.org/abs/2601.02265v1)
+
+---
+
+### 76. Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies.
+**Source:** PubMed | **Journal/Venue:** Reviews in medical virology
+
+**Authors:** Kamran Muhammad, Habib Muhammad Bilal, Shahid Adeel
+
+**Abstract:** Hantaviruses are a genus of negative-sense, single-stranded, tri-segmented RNA viruses that are distributed worldwide. They cause two severe zoonotic diseases in humans: haemorrhagic fever with renal syndrome (HFRS) and hantavirus pulmonary syndrome (HPS), also known as hantavirus cardiopulmonary syndrome (HCPS). Hantaviruses are primarily spread by inhaling aerosolised excreta from infected roden...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42499279/](https://pubmed.ncbi.nlm.nih.gov/42499279/)
+
+---
+
+### 77. JN.1-adapted vaccination is associated with readjustment of ancestral memory B cells toward neutralization within the JN.1 antigenic space.
+**Source:** PubMed | **Journal/Venue:** Nature communications
+
+**Authors:** Stankov Metodi V, Bruhn Matthias, Hoffmann Markus
+
+**Abstract:** The antigenic drift of SARS-CoV-2 toward the JN.1 lineage has prompted the development of variant-adapted COVID-19 booster vaccines. However, these boosters are thought to primarily recall pre-existing memory B cells (MBC), raising concerns about their ability to realign the immune response in highly pre-exposed populations. Here we analyze antibody and B cell responses in pre-exposed individuals ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42498786/](https://pubmed.ncbi.nlm.nih.gov/42498786/)
+
+---
+
+### 78. Characterization of vaccine viremia, attenuation reversion, and safety: Combined results from the TAK-003 dengue vaccine clinical development program.
+**Source:** PubMed | **Journal/Venue:** Vaccine
+
+**Authors:** Tricou Vianney, Saez-Llorens Xavier, Kosalaraksa Pope
+
+**Abstract:** Live-attenuated vaccines can replicate for a transient period post-vaccination and may be associated with symptoms resembling natural infection. The tetravalent dengue vaccine, TAK-003, has undergone extensive preclinical assessment to investigate vaccine RNAemia, viremia, genetic stability, and transmissibility. Here, we investigated the presence of vaccine RNAemia, attenuation loci reversions, a...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497670/](https://pubmed.ncbi.nlm.nih.gov/42497670/)
+
+---
+
+### 79. EscaPRRS-ORF5: A Structure-Aware Evolutionary Framework for Prioritizing Immune Escape-Prone Variants in Porcine Reproductive and Respiratory Syndrome Virus.
+**Source:** PubMed | **Journal/Venue:** Bioinformatics (Oxford, England)
+
+**Authors:** S R Vaishnavey, Dey Supantha, Ferdous Sakib
+
+**Abstract:** Porcine Reproductive and Respiratory Syndrome Virus (PRRSV) is a rapidly evolving RNA virus causing significant economic losses, posing a formidable challenge to vaccine efficacy due to its high mutational variability and immune escape. As the viral mutants evolve, their ability to sustain in population is driven by a range of host biology factors such as receptor binding, fusion, and uncoating. E...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42489519/](https://pubmed.ncbi.nlm.nih.gov/42489519/)
+
+---
+
+### 80. Gut Microbiota-Derived Bacterial Extracellular Vesicles in COVID-19: Their Signature and Immunological Impact.
+**Source:** PubMed | **Journal/Venue:** Journal of extracellular vesicles
+
+**Authors:** Ishizaka Aya, Koga Michiko, Hayashi Tomoya
+
+**Abstract:** Gut microbial dysbiosis has been observed in several diseases. Although causal links and direct effects on host cells remain unclear, bacteria-derived extracellular vesicles (BEVs) from the gut microbiota may regulate the host immune response. We examined the impact of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection on the gut microbiome and BEVs release, and the effects of ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42489221/](https://pubmed.ncbi.nlm.nih.gov/42489221/)
+
+---
+
+### 81. Increased Autoreactive CD8
+**Source:** PubMed | **Journal/Venue:** Circulation research
+
+**Authors:** Roy Payel, Parashar Smriti, Sidney John
+
+**Abstract:** Atherosclerosis is a chronic inflammatory disease with a strong autoimmune component, marked by the detection of autoreactive T cells and autoantibodies. Recent single-cell RNA sequencing studies have shown that atherosclerotic plaques contain clonally expanded CD8 We studied CD8 Some APOB peptides triggered robust CD8 The discovery of immunodominant major histocompatibility complex class I-restri...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42488951/](https://pubmed.ncbi.nlm.nih.gov/42488951/)
+
+---
+
+### 82. The emergence of novel H3N8 and H3N3 avian influenza viruses in chickens during multi-province surveillance in China and their potential public health risk.
+**Source:** PubMed | **Journal/Venue:** Veterinary journal (London, England : 1997)
+
+**Authors:** Wang Xue, Shi Hao, Li Peidong
+
+**Abstract:** The H3 subtype avian influenza virus (AIV) poses a substantial global public health threat due to its high host adaptability and ongoing evolution. The recent emergence of novel H3N8 and H3N3 AIVs associated with cross-species transmission underscores the urgent need for enhanced epidemiological surveillance. In this study, we conducted surveillance and characterization of H3 AIVs based on a total...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42486182/](https://pubmed.ncbi.nlm.nih.gov/42486182/)
+
+---
+
+### 83. Transformer-Based Active Learning for Data-Efficient Vaccine Epitope Selection in PRRS
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Aspen Erlandsson Brisebois, Zahed Khatooni, Connor Burbridge
+
+**Abstract:** High-fidelity molecular docking simulations can produce biologically relevant estimates of epitope-receptor binding affinity but are computationally expensive and therefore limit the number of candidates that can be screened for vaccine design. In this work, we evaluate machine learning (ML) approaches where variants of active learning are used to classify instances of high binding affinity betwee...
+
+**Link:** [http://arxiv.org/abs/2606.28659v1](http://arxiv.org/abs/2606.28659v1)
+
+---
+
+### 84. Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding
+**Source:** arXiv | **Journal/Venue:** arXiv
+
+**Authors:** Aspen Erlandsson Brisebois, Luis Pablo Gonzalez Dominguez, Shivansi Prajapati
+
+**Abstract:** Parameterized quantum circuits (PQCs) provide a flexible substrate for hybrid quantum machine learning (QML), but their practical value on Noisy Intermediate-Scale Quantum (NISQ) devices remains an empirical question, especially because training depth and scale can introduce optimization challenges such as barren plateaus. Here we study how the number and topology of two-qubit entangling gates in ...
+
+**Link:** [http://arxiv.org/abs/2606.28655v1](http://arxiv.org/abs/2606.28655v1)
+
+---
+
+### 85. Downregulation of FTO aggravates osteoarthritis with obesity by erasing m
+**Source:** PubMed | **Journal/Venue:** Military Medical Research
+
+**Authors:** Sun Xu-Ying, Su Jing-Yue, Chen Xin
+
+**Abstract:** Osteoarthritis (OA) is currently the most common age-related degenerative joint disease, but there remains a lack of disease-modifying therapy for OA treatment. This study aimed to elucidate the critical roles and underlying mechanism of the fat mass and obesity associated gene (FTO) in OA pathogenesis induced by high fat diet (HFD) and HFD coupled with destabilized medial meniscus (DMM) surgery, ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502479/](https://pubmed.ncbi.nlm.nih.gov/42502479/)
+
+---
+
+### 86. Cancer-associated fibroblast-derived CCL11 promotes prostate cancer malignancy by inducing epithelial-mesenchymal transition via CDK5.
+**Source:** PubMed | **Journal/Venue:** Cytotechnology
+
+**Authors:** Wu Yu, Chen Xingyu, Yuan Xinwei
+
+**Abstract:** To elucidate the key role and underlying mechanisms of C-C motif chemokine ligand 11 (CCL11) in cancer-associated fibroblasts (CAFs)-mediated prostate cancer (PCa) progression. In this study, we analyzed the dataset GSE85606 and validated the upregulation of  The online version contains supplementary material available at 10.1007/s10616-026-01037-0....
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502315/](https://pubmed.ncbi.nlm.nih.gov/42502315/)
+
+---
+
+### 87. KATP Channel Expression Determines ONC212 Sensitivity via Mitochondrial Dysfunction and PERK/ATF4/CHOP Activation in Glioblastoma.
+**Source:** PubMed | **Journal/Venue:** Journal of cellular and molecular medicine
+
+**Authors:** Taskesen Ahmet, Hacioglu Ceyhan
+
+**Abstract:** Glioblastoma (GBM) exhibits profound metabolic plasticity and resistance to conventional therapies, partly driven by mitochondrial adaptability and stress response mechanisms. ONC212, a second-generation imipridone, targets mitochondrial proteostasis, yet determinants of tumour sensitivity remain unclear. This study aimed to investigate whether ATP-sensitive potassium (KATP) channel expression mod...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42502247/](https://pubmed.ncbi.nlm.nih.gov/42502247/)
+
+---
+
+### 88. WEHI-345 alleviates sepsis-induced cardiomyopathy by suppressing the RIPK2-mediated MAPK/NF-κB pathway.
+**Source:** PubMed | **Journal/Venue:** Life sciences
+
+**Authors:** Yu Qian, Wang Yijie, Liu Zilin
+
+**Abstract:** Sepsis-induced cardiomyopathy (SICM) is a severe complication of sepsis for which effective pharmacological treatment options remain limited. This study aimed to investigate the role of RIPK2, prioritized through cardiac proteomic screening, and evaluate the protective effects of the RIPK2 inhibitor WEHI-345 in SICM. Quantitative proteomics was performed on cardiac tissues from lipopolysaccharide ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501938/](https://pubmed.ncbi.nlm.nih.gov/42501938/)
+
+---
+
+### 89. SIRT3 inhibition promotes age-associated vascular impairment by mediating mitochondrial dysfunction and endothelial-to-mesenchymal transition.
+**Source:** PubMed | **Journal/Venue:** Experimental gerontology
+
+**Authors:** Ke Shiye, Yang Huijun, Lu Weifeng
+
+**Abstract:** Vascular aging profoundly impacts on cardiovascular disease. Sirtuin 3 (SIRT3) is a key regulator of metabolic homeostasis whose expression declines with age; however, the mechanisms linking SIRT3 deficiency to age-associated vascular impairment remain unclear. Here, we investigated whether SIRT3 deficiency drives age-associated vascular impairment by inducing mitochondrial dysfunction and initiat...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501906/](https://pubmed.ncbi.nlm.nih.gov/42501906/)
+
+---
+
+### 90. The gut microbiota metabolite IAA modulates gut-brain axis to alleviate reproductive endocrine dysfunction in PCOS.
+**Source:** PubMed | **Journal/Venue:** Journal of advanced research
+
+**Authors:** Wu Yifan, Yu Juanjuan, He Jiangshuang
+
+**Abstract:** Circadian rhythm disruption (CD) and gut microbiota dysbiosis are emerging drivers of the polycystic ovary syndrome (PCOS). However, the specific microbial metabolites mediating the gut-brain-ovary axis remain poorly defined, limiting the development of targeted microecological therapies. We aimed to identify the functional role of the gut microbiota-derived metabolite indole-3-acetic acid (IAA) i...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501862/](https://pubmed.ncbi.nlm.nih.gov/42501862/)
+
+---
+
+### 91. Xiaoyaosan reactivates the muscle-brain axis via FNDC5/Irisin to ameliorate LPS-induced depression.
+**Source:** PubMed | **Journal/Venue:** Phytomedicine : international journal of phytotherapy and phytopharmacology
+
+**Authors:** Yan Peiting, Zheng Yantao, Li Junjie
+
+**Abstract:** The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated muscle-brain axis to restore hippocampal synaptic plasticity. LPS-induced mouse model was established for in vivo evaluation. In vitro, siR...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501549/](https://pubmed.ncbi.nlm.nih.gov/42501549/)
+
+---
+
+### 92. Dibutyl phthalate exposure induced hepatotoxicity via VDAC2 mediated mitochondria-dependent ferroptosis.
+**Source:** PubMed | **Journal/Venue:** Aquatic toxicology (Amsterdam, Netherlands)
+
+**Authors:** Li Zixu, Zhang Jialing, Wang Haodong
+
+**Abstract:** Widely used plasticiser, dibutyl phthalate (DBP), poses a serious threat to ecosystems and human health. Although evidence of the toxic effects of DBP is growing, the specific mechanisms underlying its hepatotoxicity is still unclear. Previous studies have confirmed that CH-223191 (AhR inhibitor) could not completely alleviate DBP-induced ferroptosis and the consequent hepatotoxicity, suggesting t...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42501521/](https://pubmed.ncbi.nlm.nih.gov/42501521/)
+
+---
+
+### 93. Extracellular Signal-Regulated Kinase and Reactive Oxygen Species Regulate PD-L1 to Promote Migration and Proliferation of Triple-Negative Breast Cancer MDA-MB-231 Cells.
+**Source:** PubMed | **Journal/Venue:** Oncology research
+
+**Authors:** Ho Ching-Chun, Chen Yen-Cheng, Lean Wei-Liang
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500585/](https://pubmed.ncbi.nlm.nih.gov/42500585/)
+
+---
+
+### 94. Epac1 Alleviates Senescence in Auditory Hair Cells via the Ferroptosis.
+**Source:** PubMed | **Journal/Venue:** World journal of otorhinolaryngology - head and neck surgery
+
+**Authors:** An Wen-Jun, Xu Chen-Yu, Shen Meng-Ya
+
+**Abstract:** The aim of this study was to investigate the changes in Epac1 and ferroptosis-related proteins in aged mice and the House Ear Institute-Organ of Corti 1 (HEI-OC1) cells, with the goal of elucidating their potential role in age-related hearing loss. The expression of Epac1 in the cochlea of C57BL/6J mice was examined by using immunofluorescence staining and Western blot analysis. To further verify ...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42500098/](https://pubmed.ncbi.nlm.nih.gov/42500098/)
+
+---
+
+### 95. Deoxynivalenol Induces Macrophage Extracellular Trap Formation via the PER2-c-Myc-ROS Axis.
+**Source:** PubMed | **Journal/Venue:** Toxicology
+
+**Authors:** Zhao Baimei, Tan Shiqing, Li Junyao
+
+**Abstract:** Deoxynivalenol (DON), a Fusarium-derived mycotoxin, disrupts immune homeostasis and induces immunotoxicity. Macrophage extracellular traps (METs) are key effectors in innate immunity and inflammation, yet whether DON triggers METs formation and the underlying mechanisms remain unclear. This study aims to investigate the molecular mechanism by which DON induces METs generation through circadian rhy...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42498174/](https://pubmed.ncbi.nlm.nih.gov/42498174/)
+
+---
+
+### 96. Targeting DYNC1I1 attenuates Parkinsonian neurodegeneration and α-synuclein accumulation in cellular and mouse models.
+**Source:** PubMed | **Journal/Venue:** Brain research bulletin
+
+**Authors:** Li Yuyu, Xu Li, Sun Hui
+
+**Abstract:** To investigate the effects of targeting DYNC1I1 in cellular and mouse models of Parkinson's disease (PD). Methods The scRNA-seq dataset GSE243639 was analyzed to prioritize autophagy- and transport-related candidate genes in post-mortem substantia nigra samples from patients with PD and controls. SH-SY5Y cells were treated with 1mM MPP⁺ for 48h, and male C57BL/6 mice received MPTP at 30mg/kg/day f...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497977/](https://pubmed.ncbi.nlm.nih.gov/42497977/)
+
+---
+
+### 97. Interfering with PTBP1 expression promotes anti-inflammatory macrophage polarization alongside altered activity of the miR-124/p38MAPK pathway.
+**Source:** PubMed | **Journal/Venue:** Tissue & cell
+
+**Authors:** Wu Tongtong, Lei Shuang-Yin, Yu Qi
+
+**Abstract:** Modulating the polarization phenotype of macrophages offers significant potential for treating central nervous system damage. Polypyrimidine tract binding protein 1 (PTBP1) is an indispensable RNA-binding protein that participates in nearly all stages of RNA maturation. However, the role of PTBP1 in macrophage polarization remains underexplored. This study aimed to investigate the effects of PTBP1...
+
+**Link:** [https://pubmed.ncbi.nlm.nih.gov/42497783/](https://pubmed.ncbi.nlm.nih.gov/42497783/)
+
+---
+
